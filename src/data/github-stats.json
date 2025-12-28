@@ -1,7 +1,7 @@
 {
-  "stars": 24,
+  "stars": 25,
   "forks": 7,
-  "watchers": 24,
+  "watchers": 25,
   "people": [
     {
       "id": 8937245,
@@ -50,6 +50,14 @@
       "html_url": "https://github.com/NamVTran",
       "contributions": 1,
       "type": "contributor"
+    },
+    {
+      "id": 106707929,
+      "login": "Gloomstick",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106707929?v=4",
+      "html_url": "https://github.com/Gloomstick",
+      "starred_at": "2025-12-27T20:31:54Z",
+      "type": "stargazer"
     },
     {
       "id": 19374764,
@@ -286,6 +294,14 @@
       "type": "contributor"
     },
     {
+      "id": 106707929,
+      "login": "Gloomstick",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106707929?v=4",
+      "html_url": "https://github.com/Gloomstick",
+      "starred_at": "2025-12-27T20:31:54Z",
+      "type": "stargazer"
+    },
+    {
       "id": 19374764,
       "login": "kenangundogan",
       "avatar_url": "https://avatars.githubusercontent.com/u/19374764?v=4",
@@ -308,18 +324,10 @@
       "html_url": "https://github.com/nemanjam",
       "starred_at": "2024-02-28T08:59:59Z",
       "type": "stargazer"
-    },
-    {
-      "id": 69758022,
-      "login": "tuanductran",
-      "avatar_url": "https://avatars.githubusercontent.com/u/69758022?v=4",
-      "html_url": "https://github.com/tuanductran",
-      "starred_at": "2023-11-06T02:20:21Z",
-      "type": "stargazer"
     }
   ],
-  "totalPeople": 29,
+  "totalPeople": 30,
   "totalContributors": 6,
-  "totalStargazers": 23,
-  "lastUpdated": "2025-12-27T01:50:48.763Z"
+  "totalStargazers": 24,
+  "lastUpdated": "2025-12-28T02:04:09.769Z"
 }
