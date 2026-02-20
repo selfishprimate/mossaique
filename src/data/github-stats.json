@@ -1,7 +1,7 @@
 {
-  "stars": 25,
+  "stars": 26,
   "forks": 6,
-  "watchers": 25,
+  "watchers": 26,
   "people": [
     {
       "id": 8937245,
@@ -50,6 +50,14 @@
       "html_url": "https://github.com/NamVTran",
       "contributions": 1,
       "type": "contributor"
+    },
+    {
+      "id": 38345448,
+      "login": "kirqi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38345448?v=4",
+      "html_url": "https://github.com/kirqi",
+      "starred_at": "2026-02-19T07:03:51Z",
+      "type": "stargazer"
     },
     {
       "id": 106707929,
@@ -294,6 +302,14 @@
       "type": "contributor"
     },
     {
+      "id": 38345448,
+      "login": "kirqi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38345448?v=4",
+      "html_url": "https://github.com/kirqi",
+      "starred_at": "2026-02-19T07:03:51Z",
+      "type": "stargazer"
+    },
+    {
       "id": 106707929,
       "login": "Gloomstick",
       "avatar_url": "https://avatars.githubusercontent.com/u/106707929?v=4",
@@ -316,18 +332,10 @@
       "html_url": "https://github.com/yoru-hiru",
       "starred_at": "2024-09-22T01:03:33Z",
       "type": "stargazer"
-    },
-    {
-      "id": 9990165,
-      "login": "nemanjam",
-      "avatar_url": "https://avatars.githubusercontent.com/u/9990165?v=4",
-      "html_url": "https://github.com/nemanjam",
-      "starred_at": "2024-02-28T08:59:59Z",
-      "type": "stargazer"
     }
   ],
-  "totalPeople": 30,
+  "totalPeople": 31,
   "totalContributors": 6,
-  "totalStargazers": 24,
-  "lastUpdated": "2026-02-19T02:28:44.079Z"
+  "totalStargazers": 25,
+  "lastUpdated": "2026-02-20T02:24:34.450Z"
 }
