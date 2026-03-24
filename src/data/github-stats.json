@@ -1,7 +1,7 @@
 {
-  "stars": 26,
+  "stars": 27,
   "forks": 6,
-  "watchers": 26,
+  "watchers": 27,
   "people": [
     {
       "id": 8937245,
@@ -50,6 +50,14 @@
       "html_url": "https://github.com/NamVTran",
       "contributions": 1,
       "type": "contributor"
+    },
+    {
+      "id": 139634897,
+      "login": "niyisurvey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139634897?v=4",
+      "html_url": "https://github.com/niyisurvey",
+      "starred_at": "2026-03-23T06:22:58Z",
+      "type": "stargazer"
     },
     {
       "id": 38345448,
@@ -302,6 +310,14 @@
       "type": "contributor"
     },
     {
+      "id": 139634897,
+      "login": "niyisurvey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139634897?v=4",
+      "html_url": "https://github.com/niyisurvey",
+      "starred_at": "2026-03-23T06:22:58Z",
+      "type": "stargazer"
+    },
+    {
       "id": 38345448,
       "login": "kirqi",
       "avatar_url": "https://avatars.githubusercontent.com/u/38345448?v=4",
@@ -324,18 +340,10 @@
       "html_url": "https://github.com/kenangundogan",
       "starred_at": "2025-11-11T09:33:47Z",
       "type": "stargazer"
-    },
-    {
-      "id": 174940294,
-      "login": "yoru-hiru",
-      "avatar_url": "https://avatars.githubusercontent.com/u/174940294?v=4",
-      "html_url": "https://github.com/yoru-hiru",
-      "starred_at": "2024-09-22T01:03:33Z",
-      "type": "stargazer"
     }
   ],
-  "totalPeople": 31,
+  "totalPeople": 32,
   "totalContributors": 6,
-  "totalStargazers": 25,
-  "lastUpdated": "2026-03-23T02:33:00.171Z"
+  "totalStargazers": 26,
+  "lastUpdated": "2026-03-24T02:25:07.260Z"
 }
