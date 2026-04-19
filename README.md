@@ -378,6 +378,7 @@ _Beautiful fonts and typography resources for designers. Explore Google Fonts, d
 - [Typographica](https://typographica.org/): In-depth typeface reviews, book reviews, and commentary on typography. Essential reading for type enthusiasts and designers.
 - [Typographic Posters](https://www.typographicposters.com/): Typographic Posters is a platform for inspiration and promotion of good design through the poster culture.
 - [Typography in Ten Minutes](https://practicaltypography.com/typography-in-ten-minutes.html): If you learn and follow these five typography rules, you will be a better typographer than nearly every writer—and even most graphic designers.
+- [FontsWiki](https://fontswiki.com) - Free typography hub for designers and developers to browse font pages, preview type, compare alternatives, study pairings, and explore Fonts-in-Use examples from movies, logos, games, and visual culture.
 
 ## UI Animation
 
