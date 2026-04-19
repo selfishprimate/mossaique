@@ -47,6 +47,13 @@
       "pricing": "free"
     },
     {
+      "title": "FontsWiki",
+      "link": "https://fontswiki.com",
+      "description": "- Free typography hub for designers and developers to browse font pages, preview type, compare alternatives, study pairings, and explore Fonts-in-Use examples from movies, logos, games, and visual culture.",
+      "globalIndex": 261,
+      "pricing": null
+    },
+    {
       "title": "Google Fonts",
       "link": "https://fonts.google.com/",
       "description": "Making the web more beautiful, fast, and open through great typography.",

@@ -8,35 +8,35 @@
       "title": "Animate.css",
       "link": "https://animate.style/",
       "description": "Just-add-water CSS animations!",
-      "globalIndex": 261,
+      "globalIndex": 262,
       "pricing": "free"
     },
     {
       "title": "Cubic Bezier",
       "link": "https://cubic-bezier.com/",
       "description": "Visual tool for creating and testing CSS cubic-bezier easing functions. Compare with predefined curves and get ready-to-use code.",
-      "globalIndex": 262,
+      "globalIndex": 263,
       "pricing": "free"
     },
     {
       "title": "Easings",
       "link": "https://easings.co/",
       "description": "Test common easing curves on a range of interfaces. Or generate your own custom bezier curve.",
-      "globalIndex": 263,
+      "globalIndex": 264,
       "pricing": "free"
     },
     {
       "title": "LottieFiles",
       "link": "https://lottiefiles.com/",
       "description": "Lightweight, scalable animations for your website and apps!",
-      "globalIndex": 264,
+      "globalIndex": 265,
       "pricing": "freemium"
     },
     {
       "title": "Motion UI",
       "link": "https://legacy-zurb.netlify.app/playground/motion-ui",
       "description": "A Sass library for creating flexible CSS transitions and animations.",
-      "globalIndex": 265,
+      "globalIndex": 266,
       "pricing": "free"
     }
   ]
