@@ -57,6 +57,7 @@ _Explore cutting-edge AI tools for designers and developers. From ChatGPT and Cl
 - [Google Gemini](https://gemini.google.com/): Google's most capable AI model for text, code, image, and more. Multimodal AI assistant. *Google*
 - [Hugging Face](https://huggingface.co/): The AI community building the future. Access thousands of AI models, datasets, and apps. *Hugging Face*
 - [Ideogram](https://ideogram.ai/): Free AI image generator that creates stunning visuals from text prompts in seconds. Excellent for generating images with text, logos, and creative designs.
+- [Havi](https://www.havi.ai) - AI presentation builder that turns a text prompt into a fully designed slide deck. Exports to PPTX for editing in PowerPoint or Google Slides.
 
 ## Articles
 
