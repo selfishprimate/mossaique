@@ -68,6 +68,13 @@
       "pricing": "freemium"
     },
     {
+      "title": "Havi",
+      "link": "https://www.havi.ai",
+      "description": "- AI presentation builder that turns a text prompt into a fully designed slide deck. Exports to PPTX for editing in PowerPoint or Google Slides.",
+      "globalIndex": 30,
+      "pricing": null
+    },
+    {
       "title": "Hugging Face",
       "link": "https://huggingface.co/",
       "description": "The AI community building the future. Access thousands of AI models, datasets, and apps. *Hugging Face*",

@@ -8,56 +8,56 @@
       "title": "Bardeen",
       "link": "https://www.bardeen.ai/",
       "description": "Bardeen saves you time by automating repetitive tasks with a shortcut. It combines a powerful workflow builder, AI-based recommendations, and contextual automations.",
-      "globalIndex": 212,
+      "globalIndex": 213,
       "pricing": "freemium"
     },
     {
       "title": "Miro",
       "link": "https://miro.com/",
       "description": "The online collaborative whiteboard platform to bring teams together, anytime, anywhere.",
-      "globalIndex": 213,
+      "globalIndex": 214,
       "pricing": "freemium"
     },
     {
       "title": "Notion",
       "link": "https://www.notion.so/",
       "description": "One tool for your whole team. Write, plan, and get organized.",
-      "globalIndex": 214,
+      "globalIndex": 215,
       "pricing": "freemium"
     },
     {
       "title": "Obsidian",
       "link": "https://obsidian.md/",
       "description": "Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.",
-      "globalIndex": 215,
+      "globalIndex": 216,
       "pricing": "freemium"
     },
     {
       "title": "Pomofocus",
       "link": "https://pomofocus.io/",
       "description": "An online Pomodoro Timer to boost your productivity.",
-      "globalIndex": 216,
+      "globalIndex": 217,
       "pricing": "free"
     },
     {
       "title": "Slack",
       "link": "https://slack.com/",
       "description": "Transform the way you work with one place for everyone and everything you need to get stuff done.",
-      "globalIndex": 217,
+      "globalIndex": 218,
       "pricing": "freemium"
     },
     {
       "title": "Taskade",
       "link": "https://www.taskade.com/",
       "description": "Chat, organize, and get work done with real-time to-do lists, mind maps, org charts, and more.",
-      "globalIndex": 218,
+      "globalIndex": 219,
       "pricing": "freemium"
     },
     {
       "title": "Zapier",
       "link": "https://zapier.com/",
       "description": "Easy automation for busy people. Zapier moves info between your web apps automatically, so you can focus on your most important work.",
-      "globalIndex": 219,
+      "globalIndex": 220,
       "pricing": "freemium"
     }
   ]

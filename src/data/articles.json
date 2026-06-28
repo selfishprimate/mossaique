@@ -8,84 +8,84 @@
       "title": "10 Usability Heuristics for User Interface Design",
       "link": "https://www.nngroup.com/articles/ten-usability-heuristics/",
       "description": "Jakob Nielsen's 10 general principles for interaction design. They are called \"heuristics\" because they are broad rules of thumb and not specific usability guidelines.",
-      "globalIndex": 31,
+      "globalIndex": 32,
       "pricing": null
     },
     {
       "title": "8 Brilliant Examples Of Social Proof On The Web",
       "link": "https://www.crazyegg.com/blog/examples-social-proof-on-web/",
       "description": "Social proof is powerful stuff folks. And it’s everywhere you look on today’s social web.",
-      "globalIndex": 30,
+      "globalIndex": 31,
       "pricing": null
     },
     {
       "title": "How We Hold Our Gadgets?",
       "link": "https://alistapart.com/article/how-we-hold-our-gadgets/",
       "description": "Where do hands and fingers fall on the device?",
-      "globalIndex": 32,
+      "globalIndex": 33,
       "pricing": null
     },
     {
       "title": "Mental Models",
       "link": "https://www.nngroup.com/articles/mental-models/",
       "description": "What users believe they know about a UI strongly impacts how they use it.",
-      "globalIndex": 33,
+      "globalIndex": 34,
       "pricing": null
     },
     {
       "title": "Mobile Context Model",
       "link": "http://www.giantant.com/output/mobile_context_model.pdf",
       "description": "A heuristic guide for mobile design.",
-      "globalIndex": 34,
+      "globalIndex": 35,
       "pricing": null
     },
     {
       "title": "Task Analysis: Support Users in Achieving Their Goals",
       "link": "https://www.nngroup.com/articles/task-analysis/",
       "description": "Task analysis is the systematic study of how users complete tasks to achieve their goals. This knowledge ensures products and services are designed to efficiently and appropriately support those goals.",
-      "globalIndex": 35,
+      "globalIndex": 36,
       "pricing": null
     },
     {
       "title": "The Typographic Scale",
       "link": "https://spencermortensen.com/articles/typographic-scale/",
       "description": "The typographic scale has been used for centuries as a means of creating balanced and harmonious font sizing. It is the bedrock of modern typography.",
-      "globalIndex": 36,
+      "globalIndex": 37,
       "pricing": null
     },
     {
       "title": "The Ultimate Guide to Information Architecture",
       "link": "http://www.webdesignerdepot.com/2015/02/the-ultimate-guide-to-information-architecture/",
       "description": "Whether you hire a dedicated IA professional, or just sort of let IA happen on your projects, if you’re designing things with content, you’re using IA.",
-      "globalIndex": 37,
+      "globalIndex": 38,
       "pricing": null
     },
     {
       "title": "Touch Gesture Reference Guide",
       "link": "https://www.lukew.com/ff/entry.asp?1071",
       "description": "The Touch Gesture Reference Guide is a unique set of resources for software designers and developers working on touch-based user interfaces.",
-      "globalIndex": 38,
+      "globalIndex": 39,
       "pricing": null
     },
     {
       "title": "Usability 101: Introduction to Usability",
       "link": "https://www.nngroup.com/articles/usability-101-introduction-to-usability/",
       "description": "How to define usability? How, when, and where to improve it? Why should you care? Overview defines key usability concepts and answers basic questions.",
-      "globalIndex": 39,
+      "globalIndex": 40,
       "pricing": null
     },
     {
       "title": "When and How to Create Customer Journey Maps",
       "link": "https://www.nngroup.com/articles/customer-journey-mapping/",
       "description": "Journey maps combine two powerful instruments—storytelling and visualization—in order to help teams understand and address customer needs.",
-      "globalIndex": 40,
+      "globalIndex": 41,
       "pricing": null
     },
     {
       "title": "Why You Only Need to Test with 5 Users",
       "link": "https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/",
       "description": "Elaborate usability tests are a waste of resources. The best results come from testing no more than 5 users and running as many small tests as you can afford.",
-      "globalIndex": 41,
+      "globalIndex": 42,
       "pricing": null
     }
   ]

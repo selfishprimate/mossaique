@@ -8,98 +8,98 @@
       "title": "Atlassian",
       "link": "https://atlassian.design/",
       "description": "Use Atlassian’s end-to-end design language to create simple, intuitive and beautiful experiences.",
-      "globalIndex": 109,
+      "globalIndex": 110,
       "pricing": "free"
     },
     {
       "title": "Carbon",
       "link": "https://www.ibm.com/design/language/",
       "description": "This is the guiding ethos behind IBM’s design philosophy and principles. This helps us distinguish every element and every experience Designed by IBM. *IBM*",
-      "globalIndex": 112,
+      "globalIndex": 113,
       "pricing": "free"
     },
     {
       "title": "Cookbook",
       "link": "https://www.yelp.com/styleguide/",
       "description": "The styleguide is a resource for designers, product managers, and developers, providing a common language around Yelp’s UI patterns. *Yelp*",
-      "globalIndex": 122,
+      "globalIndex": 123,
       "pricing": "free"
     },
     {
       "title": "Evergreen",
       "link": "https://evergreen.segment.com/",
       "description": "Evergreen is a React UI Framework for building ambitious products on the web. Brought to you by Segment.",
-      "globalIndex": 110,
+      "globalIndex": 111,
       "pricing": "free"
     },
     {
       "title": "Fluent",
       "link": "https://www.microsoft.com/design/fluent/",
       "description": "Fluent is an open-source, cross-platform design system that gives designers and developers the frameworks they need to create engaging product experiences—accessibility, internationalization, and performance included. *Microsoft*",
-      "globalIndex": 111,
+      "globalIndex": 112,
       "pricing": "free"
     },
     {
       "title": "Human Interface Guidelines",
       "link": "https://developer.apple.com/design/human-interface-guidelines/",
       "description": "Get in-depth information and UI resources for designing great apps that integrate seamlessly with Apple platforms. *Apple*",
-      "globalIndex": 113,
+      "globalIndex": 114,
       "pricing": "free"
     },
     {
       "title": "Lightning Design System",
       "link": "https://www.lightningdesignsystem.com/",
       "description": "Salesforce Lightning Design System. Create the world’s best enterprise app experiences. *Salesforce*",
-      "globalIndex": 114,
+      "globalIndex": 115,
       "pricing": "free"
     },
     {
       "title": "Material Design",
       "link": "https://material.io/",
       "description": "Material is a design system – backed by open-source code – that helps teams build high-quality digital experiences. *Google*",
-      "globalIndex": 115,
+      "globalIndex": 116,
       "pricing": "free"
     },
     {
       "title": "Mozilla Protocol",
       "link": "https://protocol.mozilla.org/index.html",
       "description": "Protocol is a design system for Mozilla and Firefox websites. It establishes a common design language, provides reusable coded components, and outlines high level guidelines for content and accessibility. *Mozilla*",
-      "globalIndex": 116,
+      "globalIndex": 117,
       "pricing": "free"
     },
     {
       "title": "Polaris",
       "link": "https://polaris.shopify.com/",
       "description": "Our design system helps us work together to build a great experience for all of Shopify’s merchants. *Shopify*",
-      "globalIndex": 117,
+      "globalIndex": 118,
       "pricing": "free"
     },
     {
       "title": "Primer",
       "link": "https://primer.style/",
       "description": "Primer was created for GitHub by GitHub. We love it so much, we chose to open-source it to allow the community to design and build their own projects with Primer. *Github*",
-      "globalIndex": 118,
+      "globalIndex": 119,
       "pricing": "free"
     },
     {
       "title": "Solid",
       "link": "https://solid.buzzfeed.com/",
       "description": "Solid is BuzzFeed's CSS style guide. Influenced by frameworks like Basscss, Solid uses immutable, atomic CSS classes to rapidly prototype and develop features, providing consistent styling options along with the flexibility to create new layouts and designs without the need to write additional CSS. *BuzzFeed*",
-      "globalIndex": 119,
+      "globalIndex": 120,
       "pricing": "free"
     },
     {
       "title": "Style Guides",
       "link": "http://styleguides.io/",
       "description": "Real life pattern libraries, code standards documents and content style guides.",
-      "globalIndex": 120,
+      "globalIndex": 121,
       "pricing": "free"
     },
     {
       "title": "Uber",
       "link": "https://brand.uber.com/",
       "description": "These guidelines cover 9 elements: logo, color, composition, iconography, illustration, motion, photography, tone of voice, and typography.",
-      "globalIndex": 121,
+      "globalIndex": 122,
       "pricing": "free"
     }
   ]

@@ -8,105 +8,105 @@
       "title": "A List Apart",
       "link": "https://alistapart.com/",
       "description": "A List Apart explores the design, development, and meaning of web content, with a special focus on web standards and best practices.",
-      "globalIndex": 42,
+      "globalIndex": 43,
       "pricing": null
     },
     {
       "title": "Brad Frost",
       "link": "https://bradfrost.com/",
       "description": "I create successful design systems and help others do the same.",
-      "globalIndex": 43,
+      "globalIndex": 44,
       "pricing": null
     },
     {
       "title": "Creative Review",
       "link": "https://www.creativereview.co.uk/",
       "description": "We deliver the sharpest opinion, analysis and advice on life in the creative industries.",
-      "globalIndex": 44,
+      "globalIndex": 45,
       "pricing": null
     },
     {
       "title": "Design Systems",
       "link": "https://www.designsystems.com/",
       "description": "A Figma publication for design systems creators, designers, developers, and managers.",
-      "globalIndex": 45,
+      "globalIndex": 46,
       "pricing": null
     },
     {
       "title": "DesignTAXI",
       "link": "https://designtaxi.com/",
       "description": "DesignTAXI is the leading online reference source for the creative world, reaching millions of industry tastemakers and influencers monthly.",
-      "globalIndex": 46,
+      "globalIndex": 47,
       "pricing": null
     },
     {
       "title": "Hey Designer",
       "link": "https://heydesigner.com/",
       "description": "Daily curated design knowledge.",
-      "globalIndex": 47,
+      "globalIndex": 48,
       "pricing": "free"
     },
     {
       "title": "Law of UX",
       "link": "https://lawsofux.com/",
       "description": "Laws of UX is a collection of best practices that designers can consider when building user interfaces.",
-      "globalIndex": 48,
+      "globalIndex": 49,
       "pricing": null
     },
     {
       "title": "NN/g",
       "link": "https://www.nngroup.com/",
       "description": "World leaders in research-based user experience.",
-      "globalIndex": 49,
+      "globalIndex": 50,
       "pricing": null
     },
     {
       "title": "Product Talk by Teresa Torres",
       "link": "https://www.producttalk.org/blog/",
       "description": "Make better product decisions.",
-      "globalIndex": 50,
+      "globalIndex": 51,
       "pricing": null
     },
     {
       "title": "Smashing Magazine",
       "link": "https://www.smashingmagazine.com/",
       "description": "We care about quality content.",
-      "globalIndex": 51,
+      "globalIndex": 52,
       "pricing": null
     },
     {
       "title": "The Daily Egg",
       "link": "https://www.crazyegg.com/blog/",
       "description": "Make the most of every visitor.",
-      "globalIndex": 52,
+      "globalIndex": 53,
       "pricing": null
     },
     {
       "title": "UX Magazine",
       "link": "https://uxmag.com/",
       "description": "UX Magazine has been exploring, promoting, and discussing the realm of experience design for more than two decades.",
-      "globalIndex": 53,
+      "globalIndex": 54,
       "pricing": null
     },
     {
       "title": "UX Mastery",
       "link": "https://uxmastery.com/",
       "description": "At UX Mastery, we believe that technology needs to work for humans, not the other way around.",
-      "globalIndex": 54,
+      "globalIndex": 55,
       "pricing": null
     },
     {
       "title": "UX Matters",
       "link": "https://www.uxmatters.com/",
       "description": "UXmatters provides insights and inspiration to experienced professionals working in every aspect of User Experience, as well as those who are just beginning their journey in the field.",
-      "globalIndex": 55,
+      "globalIndex": 56,
       "pricing": null
     },
     {
       "title": "UX Planet",
       "link": "https://uxplanet.org/",
       "description": "One-stop resource for everything related to user experience.",
-      "globalIndex": 56,
+      "globalIndex": 57,
       "pricing": null
     }
   ]

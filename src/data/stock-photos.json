@@ -8,42 +8,42 @@
       "title": "Burst",
       "link": "https://burst.shopify.com/",
       "description": "Free stock photos for websites and commercial use.",
-      "globalIndex": 235,
+      "globalIndex": 236,
       "pricing": "free"
     },
     {
       "title": "Generated Photos",
       "link": "https://generated.photos/",
       "description": "AI-generated photos of people that don't exist. Use realistic, royalty-free human faces without privacy concerns or model releases.",
-      "globalIndex": 236,
+      "globalIndex": 237,
       "pricing": "freemium"
     },
     {
       "title": "Lorem Picsum",
       "link": "https://picsum.photos/",
       "description": "The Lorem Ipsum for photos.",
-      "globalIndex": 237,
+      "globalIndex": 238,
       "pricing": "free"
     },
     {
       "title": "Pexels",
       "link": "https://www.pexels.com/",
       "description": "The best free stock photos & videos shared by talented creators.",
-      "globalIndex": 238,
+      "globalIndex": 239,
       "pricing": "free"
     },
     {
       "title": "Unsplash",
       "link": "https://unsplash.com/",
       "description": "The internet's source of freely-usable images. Download millions of high-resolution photos from talented photographers worldwide, free for commercial and personal use.",
-      "globalIndex": 239,
+      "globalIndex": 240,
       "pricing": "free"
     },
     {
       "title": "UserStock",
       "link": "https://userstock.io/",
       "description": "Free photos of people's faces to use as avatars in UI mockups, prototypes and more.",
-      "globalIndex": 240,
+      "globalIndex": 241,
       "pricing": "free"
     }
   ]
