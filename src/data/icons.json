@@ -108,6 +108,13 @@
       "description": "Premium marketplace for design resources including thousands of vector icon sets. High-quality assets for mobile, web, and print projects.",
       "globalIndex": 182,
       "pricing": "paid"
+    },
+    {
+      "title": "VectorElements",
+      "link": "https://vectorelements.net/icons/",
+      "description": "- Download free SVG icons and modern vector icon packs for websites, mobile apps, user interfaces, branding, social media, and marketing projects. VectorElements offers professionally designed icons in AI, EPS, SVG, PNG, JPG, and PDF formats, with premium collections also available.",
+      "globalIndex": 184,
+      "pricing": null
     }
   ]
 }
