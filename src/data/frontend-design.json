@@ -103,6 +103,13 @@
       "pricing": null
     },
     {
+      "title": "HorizonX",
+      "link": "https://horizonx.so/",
+      "description": "- A premium UI and production-ready code library for vibe coders, product designers, and frontend developers. HorizonX pairs editable Figma systems with React, Tailwind, HTML, and prompt-based assets so teams can start from a crafted visual foundation, preserve reusable components and design tokens, and adapt the result in Cursor, Lovable, v0, or their own codebase.",
+      "globalIndex": 167,
+      "pricing": null
+    },
+    {
       "title": "HTML5 Boilerplate",
       "link": "https://html5boilerplate.com/",
       "description": "The web’s most popular front-end template.",
