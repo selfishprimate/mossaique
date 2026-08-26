@@ -197,6 +197,9 @@ _Boost your Figma workflow with essential plugins. Discover time-saving tools fo
 - [Styler](https://www.figma.com/community/plugin/820660579767995949/Styler): Styler unlocks the ability to manage multiple styles at once by using modifying the layer properties. 
 - [UI Faces](https://www.figma.com/community/plugin/769664006254845172/UI-Faces): UI Faces aggregates thousands of avatars which you can carefully filter to create your perfect personas or just generate random avatars.
 - [Unsplash](https://www.figma.com/community/plugin/738454987945972471/Unsplash): Insert beautiful images from Unsplash straight into your designs.
+- [ Source → Design — Code to Figma: HTML, React & Next.js ](https://www.figma.com/community/plugin/1671982756700161071) - Source → Design closes the gap between frontend implementation and editable design work.
+
+Turn HTML, static sites and React, Next.js, Vue or Svelte projects into editable Figma layers, with real text, styles, spacing, vector assets and visual structure retained.
 
 ## Frontend Design
 
