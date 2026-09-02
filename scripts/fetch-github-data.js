@@ -1,4 +1,4 @@
-import { writeFileSync, existsSync } from 'fs'
+import { writeFileSync, readFileSync, existsSync } from 'fs'
 import { join, dirname } from 'path'
 import { fileURLToPath } from 'url'
 
@@ -108,6 +108,19 @@ async function fetchGitHubData() {
       totalContributors: filteredContributors.length,
       totalStargazers: uniqueStargazers.length,
       lastUpdated: new Date().toISOString()
+    }
+
+    // lastUpdated changes on every run, so writing unconditionally would make the
+    // scheduled workflow commit a timestamp-only diff every single day. Keep the
+    // existing file untouched when nothing but the timestamp differs.
+    if (existsSync(outputPath)) {
+      const { lastUpdated: _previousRun, ...previousData } = JSON.parse(readFileSync(outputPath, 'utf-8'))
+      const { lastUpdated: _currentRun, ...currentData } = githubStats
+
+      if (JSON.stringify(previousData) === JSON.stringify(currentData)) {
+        console.log('✓ GitHub stats unchanged - leaving the existing file as is')
+        return
+      }
     }
 
     // Write to JSON file
