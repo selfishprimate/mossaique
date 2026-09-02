@@ -6,23 +6,36 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch: # Allow manual trigger
 
+# Never let two stats runs push to main at the same time
+concurrency:
+  group: auto-commit-main
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
 jobs:
   update-stats:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main
           fetch-depth: 0
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: '20'
 
       - name: Fetch GitHub stats
+        # The stargazers endpoint requires authentication (it returns 401 without a
+        # token), so the script must run with GITHUB_TOKEN in its environment.
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/fetch-github-data.js
 
       - name: Check for changes
@@ -39,4 +52,5 @@ jobs:
           git commit -m "chore: update GitHub stats
 
           🤖 Automatically updated by fetch-github-stats workflow"
-          git push
+          git pull --rebase origin main
+          git push origin HEAD:main

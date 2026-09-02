@@ -72,7 +72,7 @@ exports.handler = async (event) => {
 
     const REPO_OWNER = 'selfishprimate';
     const REPO_NAME = 'mossaique';
-    const BASE_BRANCH = 'master';
+    const BASE_BRANCH = 'main';
 
     // 1. Get the base branch reference
     const baseBranchRef = await makeGitHubRequest(

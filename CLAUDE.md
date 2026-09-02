@@ -29,7 +29,7 @@ README.md → scripts/parse-readme.js → src/data/<category>.json → src/data/
 
 Never hand-edit `src/data/*.json` for content — the next parse overwrites it. Edit `README.md` instead. Entries must follow `- [Title](URL): Description` and stay alphabetically ordered within their section (the parser also sorts, but the README convention matters for review).
 
-The `.github/workflows/parse-readme.yml` workflow re-runs the parser and auto-commits `src/data/*.json` on every push to `master` (or merged PR) that touches `README.md`, so contributors commit only `README.md`.
+The `.github/workflows/parse-readme.yml` workflow re-runs the parser and auto-commits `src/data/*.json` on every push to `main` that touches `README.md`, so contributors commit only `README.md`. On pull requests the same workflow only *validates* that the README parses — it must never push from a PR run, because merging a PR is itself a push to `main` and two runs committing the same commit race each other. Both auto-committing workflows share the `auto-commit-main` concurrency group for the same reason.
 
 ### Adding a new category touches five files
 

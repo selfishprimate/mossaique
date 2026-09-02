@@ -53,7 +53,7 @@ npm run parse-readme && npm run build
 ### Automatic Deployments
 
 **Production:**
-- Triggers on push to `master` branch
+- Triggers on push to `main` branch
 - Netlify automatically builds and deploys
 - Available at: https://mossaique.netlify.app/
 

@@ -6,7 +6,7 @@ _Your design mosaic - The best curated design resources for designers and develo
 
 <p>
   <a href="https://mossaique.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/selfishprimate/mossaique/master/public/og-image-dark.jpg">
+    <img src="https://raw.githubusercontent.com/selfishprimate/mossaique/main/public/og-image-dark.jpg">
   </a>
 </p>
 

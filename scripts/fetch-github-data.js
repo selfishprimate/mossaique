@@ -1,4 +1,4 @@
-import { writeFileSync } from 'fs'
+import { writeFileSync, existsSync } from 'fs'
 import { join, dirname } from 'path'
 import { fileURLToPath } from 'url'
 
@@ -8,26 +8,57 @@ const __dirname = dirname(__filename)
 const REPO_OWNER = 'selfishprimate'
 const REPO_NAME = 'mossaique'
 
+const outputPath = join(__dirname, '../src/data/github-stats.json')
+
+// Unauthenticated GitHub API calls are limited to 60/hour per IP. CI runners share
+// IPs, so those requests get rate-limited almost immediately. Send a token when one
+// is available (GITHUB_TOKEN is provided automatically inside GitHub Actions).
+const token = process.env.GITHUB_TOKEN || process.env.GH_TOKEN
+
+const baseHeaders = {
+  'Accept': 'application/vnd.github.v3+json',
+  'User-Agent': `${REPO_OWNER}-${REPO_NAME}-stats-script`,
+  ...(token ? { 'Authorization': `Bearer ${token}` } : {})
+}
+
+async function githubFetch(url, extraHeaders = {}) {
+  const response = await fetch(url, { headers: { ...baseHeaders, ...extraHeaders } })
+
+  if (!response.ok) {
+    const remaining = response.headers.get('x-ratelimit-remaining')
+    const reset = response.headers.get('x-ratelimit-reset')
+    let detail = `${response.status} ${response.statusText}`
+
+    if (remaining === '0') {
+      const resetAt = reset ? new Date(Number(reset) * 1000).toISOString() : 'unknown'
+      detail += ` - rate limit exhausted (resets at ${resetAt})`
+      if (!token) {
+        detail += '. No GITHUB_TOKEN was set, so this ran unauthenticated (60 req/hour).'
+      }
+    }
+
+    throw new Error(`GitHub API request failed for ${url}: ${detail}`)
+  }
+
+  return response.json()
+}
+
 async function fetchGitHubData() {
   try {
     console.log('Fetching GitHub stats...')
 
-    // Fetch repository data, contributors, and stargazers in parallel
-    const [repoRes, contributorsRes, stargazersRes] = await Promise.all([
-      fetch(`https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}`),
-      fetch(`https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contributors`),
-      fetch(`https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/stargazers?per_page=30`, {
-        headers: { 'Accept': 'application/vnd.github.v3.star+json' }
-      })
-    ])
-
-    if (!repoRes.ok || !contributorsRes.ok || !stargazersRes.ok) {
-      throw new Error('Failed to fetch data from GitHub API')
+    if (!token) {
+      console.warn('⚠️  No GITHUB_TOKEN set - running unauthenticated (60 requests/hour limit)')
     }
 
-    const repoData = await repoRes.json()
-    const contributorsData = await contributorsRes.json()
-    const stargazersData = await stargazersRes.json()
+    // Fetch repository data, contributors, and stargazers in parallel
+    const [repoData, contributorsData, stargazersData] = await Promise.all([
+      githubFetch(`https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}`),
+      githubFetch(`https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contributors`),
+      githubFetch(`https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/stargazers?per_page=30`, {
+        'Accept': 'application/vnd.github.v3.star+json'
+      })
+    ])
 
     // Filter out bot accounts from contributors
     const filteredContributors = contributorsData
@@ -80,7 +111,6 @@ async function fetchGitHubData() {
     }
 
     // Write to JSON file
-    const outputPath = join(__dirname, '../src/data/github-stats.json')
     writeFileSync(outputPath, JSON.stringify(githubStats, null, 2), 'utf-8')
 
     console.log('✓ GitHub stats updated successfully')
@@ -91,6 +121,14 @@ async function fetchGitHubData() {
     console.log(`  - Last updated: ${githubStats.lastUpdated}`)
   } catch (error) {
     console.error('Error fetching GitHub data:', error.message)
+
+    // Stats are a nice-to-have. If we already have a previous snapshot, keep it and
+    // let the build continue rather than breaking a deploy over a transient API error.
+    if (existsSync(outputPath)) {
+      console.warn('⚠️  Keeping the existing github-stats.json and continuing.')
+      return
+    }
+
     process.exit(1)
   }
 }

@@ -26,4 +26,19 @@ export default defineConfig([
       'no-unused-vars': ['error', { varsIgnorePattern: '^[A-Z_]' }],
     },
   },
+  {
+    // Build scripts and config files run in Node, not the browser
+    files: ['scripts/**/*.js', '*.config.js', 'seo-config.js'],
+    languageOptions: {
+      globals: globals.node,
+    },
+  },
+  {
+    // Netlify functions run in Node and use CommonJS
+    files: ['netlify/functions/**/*.js'],
+    languageOptions: {
+      globals: globals.node,
+      sourceType: 'commonjs',
+    },
+  },
 ])
