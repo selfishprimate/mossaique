@@ -194,12 +194,10 @@ _Boost your Figma workflow with essential plugins. Discover time-saving tools fo
 - [Insert Big Image](https://www.figma.com/community/plugin/799646392992487942): Insert and retain the original resolution of big images.
 - [Layout Grid Visualizer](https://www.figma.com/community/plugin/831003768229656707/Layout-Grid-Visualizer): Generate layers from your layout grids so you can export images or prepare diagrams to supplement your design systems documentation.
 - [Material Design Icons](https://www.figma.com/community/plugin/740272380439725040/Material-Design-Icons): Instant easy access to the entire Material Design Icons library. 35,000+ icons in PNG and SVG at your fingertips. 
+- [Source → Design — Code to Figma: HTML, React & Next.js](https://www.figma.com/community/plugin/1671982756700161071): Turn HTML, static sites and React, Next.js, Vue or Svelte projects into editable Figma layers, with text, styles, spacing and vector assets retained.
 - [Styler](https://www.figma.com/community/plugin/820660579767995949/Styler): Styler unlocks the ability to manage multiple styles at once by using modifying the layer properties. 
 - [UI Faces](https://www.figma.com/community/plugin/769664006254845172/UI-Faces): UI Faces aggregates thousands of avatars which you can carefully filter to create your perfect personas or just generate random avatars.
 - [Unsplash](https://www.figma.com/community/plugin/738454987945972471/Unsplash): Insert beautiful images from Unsplash straight into your designs.
-- [ Source → Design — Code to Figma: HTML, React & Next.js ](https://www.figma.com/community/plugin/1671982756700161071) - Source → Design closes the gap between frontend implementation and editable design work.
-
-Turn HTML, static sites and React, Next.js, Vue or Svelte projects into editable Figma layers, with real text, styles, spacing, vector assets and visual structure retained.
 
 ## Frontend Design
 
