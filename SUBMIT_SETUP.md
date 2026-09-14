@@ -7,7 +7,7 @@ This guide explains how to set up the automated resource submission feature that
 - ✅ Submit form modal on the website
 - ✅ Automated PR creation to GitHub
 - ✅ Category selection
-- ✅ Optional submitter credit (name, email, GitHub username)
+- ✅ Optional submitter credit (name, GitHub username) - email is intentionally not collected, because PR bodies are public
 - ✅ No manual GitHub access needed for users
 
 ## Setup Steps

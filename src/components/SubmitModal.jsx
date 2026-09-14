@@ -9,7 +9,6 @@ export default function SubmitModal({ isOpen, onClose, onShowToast }) {
     resourceUrl: '',
     description: '',
     submitterName: '',
-    submitterEmail: '',
     submitterGithub: ''
   })
   const [isSubmitting, setIsSubmitting] = useState(false)
@@ -39,7 +38,6 @@ export default function SubmitModal({ isOpen, onClose, onShowToast }) {
           resourceUrl: '',
           description: '',
           submitterName: '',
-          submitterEmail: '',
           submitterGithub: ''
         })
 
@@ -200,24 +198,6 @@ export default function SubmitModal({ isOpen, onClose, onShowToast }) {
               id="submitterName"
               name="submitterName"
               value={formData.submitterName}
-              onChange={handleChange}
-              className="w-full rounded-lg border border-gray-300 bg-gray-100 px-3 pt-6 pb-2 text-gray-900 transition-colors focus:border-blue-500 focus:outline-none dark:border-gray-700 dark:bg-gray-900 dark:text-white dark:focus:border-blue-400"
-            />
-          </div>
-
-          {/* Submitter Email */}
-          <div className="relative">
-            <label
-              htmlFor="submitterEmail"
-              className="absolute left-3 top-2 text-xs font-medium text-gray-600 dark:text-gray-400"
-            >
-              Email
-            </label>
-            <input
-              type="email"
-              id="submitterEmail"
-              name="submitterEmail"
-              value={formData.submitterEmail}
               onChange={handleChange}
               className="w-full rounded-lg border border-gray-300 bg-gray-100 px-3 pt-6 pb-2 text-gray-900 transition-colors focus:border-blue-500 focus:outline-none dark:border-gray-700 dark:bg-gray-900 dark:text-white dark:focus:border-blue-400"
             />

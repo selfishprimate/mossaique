@@ -65,7 +65,6 @@ export const handler = async (event) => {
     const description = singleLine(body.description);
     const {
       submitterName,
-      submitterEmail,
       submitterGithub
     } = body;
 
@@ -185,9 +184,10 @@ export const handler = async (event) => {
     );
 
     // 6. Create a pull request
+    // Credit uses public identifiers only. PR bodies are public on this repo, so
+    // the form deliberately does not collect or publish submitters' email addresses.
     const submitterInfo = [];
     if (submitterName) submitterInfo.push(`**Name:** ${submitterName}`);
-    if (submitterEmail) submitterInfo.push(`**Email:** ${submitterEmail}`);
     if (submitterGithub) submitterInfo.push(`**GitHub:** @${submitterGithub}`);
 
     const prBody = `## New Resource Submission
