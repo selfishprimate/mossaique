@@ -235,7 +235,7 @@ _Essential frontend resources for designers who code. Explore CSS frameworks lik
 - [TypeScript](https://www.typescriptlang.org/): TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
 - [Visual Studio Code](https://code.visualstudio.com/): Free, open-source code editor from Microsoft with IntelliSense, debugging, Git integration, and thousands of extensions. Supports virtually every programming language.
 - [Vue.js](https://vuejs.org/): An approachable, performant and versatile framework for building web user interfaces.
-- [HorizonX](https://horizonx.so/) - A premium UI and production-ready code library for vibe coders, product designers, and frontend developers. HorizonX pairs editable Figma systems with React, Tailwind, HTML, and prompt-based assets so teams can start from a crafted visual foundation, preserve reusable components and design tokens, and adapt the result in Cursor, Lovable, v0, or their own codebase.
+- [HorizonX](https://horizonx.so/): A premium UI and production-ready code library for vibe coders, product designers, and frontend developers. HorizonX pairs editable Figma systems with React, Tailwind, HTML, and prompt-based assets so teams can start from a crafted visual foundation, preserve reusable components and design tokens, and adapt the result in Cursor, Lovable, v0, or their own codebase.
 
 ## Graphic Design
 
