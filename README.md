@@ -57,7 +57,7 @@ _Explore cutting-edge AI tools for designers and developers. From ChatGPT and Cl
 - [Google Gemini](https://gemini.google.com/): Google's most capable AI model for text, code, image, and more. Multimodal AI assistant. *Google*
 - [Hugging Face](https://huggingface.co/): The AI community building the future. Access thousands of AI models, datasets, and apps. *Hugging Face*
 - [Ideogram](https://ideogram.ai/): Free AI image generator that creates stunning visuals from text prompts in seconds. Excellent for generating images with text, logos, and creative designs.
-- [Havi](https://www.havi.ai) - AI presentation builder that turns a text prompt into a fully designed slide deck. Exports to PPTX for editing in PowerPoint or Google Slides.
+- [Havi](https://www.havi.ai): AI presentation builder that turns a text prompt into a fully designed slide deck. Exports to PPTX for editing in PowerPoint or Google Slides.
 
 ## Articles
 
@@ -263,8 +263,8 @@ _Free and premium icon libraries for your projects. Thousands of icons in SVG, P
 - [Streamline](https://streamlinehq.com/): 100,000 icons, illustrations and emoji for all your projects.
 - [The Noun Project](https://thenounproject.com/): Over 5 million curated icons and photos representing every concept imaginable. Available in SVG and PNG formats with flexible licensing.
 - [UI8](https://ui8.net/category/icons): Premium marketplace for design resources including thousands of vector icon sets. High-quality assets for mobile, web, and print projects.
-- [Lucide](https://lucide.dev/icons/) - Lucide is an open-source icon library that provides 1000+ vector files for displaying icons and symbols in digital and non-digital projects.
-- [VectorElements](https://vectorelements.net/icons/) - Download free SVG icons and modern vector icon packs for websites, mobile apps, user interfaces, branding, social media, and marketing projects. VectorElements offers professionally designed icons in AI, EPS, SVG, PNG, JPG, and PDF formats, with premium collections also available.
+- [Lucide](https://lucide.dev/icons/): Lucide is an open-source icon library that provides 1000+ vector files for displaying icons and symbols in digital and non-digital projects.
+- [VectorElements](https://vectorelements.net/icons/): Download free SVG icons and modern vector icon packs for websites, mobile apps, user interfaces, branding, social media, and marketing projects. VectorElements offers professionally designed icons in AI, EPS, SVG, PNG, JPG, and PDF formats, with premium collections also available.
 
 ## Inspiration
 
@@ -383,7 +383,7 @@ _Beautiful fonts and typography resources for designers. Explore Google Fonts, d
 - [Typographica](https://typographica.org/): In-depth typeface reviews, book reviews, and commentary on typography. Essential reading for type enthusiasts and designers.
 - [Typographic Posters](https://www.typographicposters.com/): Typographic Posters is a platform for inspiration and promotion of good design through the poster culture.
 - [Typography in Ten Minutes](https://practicaltypography.com/typography-in-ten-minutes.html): If you learn and follow these five typography rules, you will be a better typographer than nearly every writer—and even most graphic designers.
-- [FontsWiki](https://fontswiki.com) - Free typography hub for designers and developers to browse font pages, preview type, compare alternatives, study pairings, and explore Fonts-in-Use examples from movies, logos, games, and visual culture.
+- [FontsWiki](https://fontswiki.com): Free typography hub for designers and developers to browse font pages, preview type, compare alternatives, study pairings, and explore Fonts-in-Use examples from movies, logos, games, and visual culture.
 
 ## UI Animation
 
