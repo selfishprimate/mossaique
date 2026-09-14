@@ -34,11 +34,11 @@ export default defineConfig([
     },
   },
   {
-    // Netlify functions run in Node and use CommonJS
+    // Netlify functions run in Node. package.json sets "type": "module", so they
+    // are loaded as ES modules - CommonJS (require/exports) crashes at load time.
     files: ['netlify/functions/**/*.js'],
     languageOptions: {
       globals: globals.node,
-      sourceType: 'commonjs',
     },
   },
 ])

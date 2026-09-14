@@ -1,4 +1,4 @@
-const https = require('https');
+import https from 'https';
 
 // GitHub API helper function
 function makeGitHubRequest(path, method, data) {
@@ -42,7 +42,7 @@ function makeGitHubRequest(path, method, data) {
   });
 }
 
-exports.handler = async (event) => {
+export const handler = async (event) => {
   // Only allow POST
   if (event.httpMethod !== 'POST') {
     return {
@@ -52,15 +52,22 @@ exports.handler = async (event) => {
   }
 
   try {
+    const body = JSON.parse(event.body);
+
+    // Collapse newlines and repeated whitespace. The README entry must stay on a
+    // single line - a line break inside the description turns the rest of it into
+    // a loose paragraph that the README parser silently drops.
+    const singleLine = (value) => (value == null ? value : String(value).replace(/\s+/g, ' ').trim());
+
+    const category = body.category;
+    const resourceName = singleLine(body.resourceName);
+    const resourceUrl = singleLine(body.resourceUrl);
+    const description = singleLine(body.description);
     const {
-      category,
-      resourceName,
-      resourceUrl,
-      description,
       submitterName,
       submitterEmail,
       submitterGithub
-    } = JSON.parse(event.body);
+    } = body;
 
     // Validate required fields
     if (!category || !resourceName || !resourceUrl || !description) {
@@ -156,7 +163,9 @@ exports.handler = async (event) => {
     }
 
     // Create the new resource line
-    const newResourceLine = `- [${resourceName}](${resourceUrl}) - ${description}\n`;
+    // Must match the documented "[Title](URL): Description" format. With " - " the parser
+    // leaves the dash attached to the description, and the site renders it.
+    const newResourceLine = `- [${resourceName}](${resourceUrl}): ${description}\n`;
 
     // Insert the new resource at the end of the category section
     const beforeCategory = currentContent.substring(0, nextCategoryIndex);
