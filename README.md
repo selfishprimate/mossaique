@@ -241,6 +241,7 @@ _Essential frontend resources for designers who code. Explore CSS frameworks lik
 
 _Professional graphic design resources and inspiration. Discover tools, templates, and inspiration for logo design, branding, print design, and visual communication. Explore galleries showcasing the work of talented graphic designers worldwide._
 
+- [Image to ASCII](https://imagetoascii.art/): Free browser-based image-to-ASCII converter for retro visuals and README graphics. Processes images locally, with adjustable character styles, dithering, and color; copies text or Markdown and exports TXT, PNG, SVG, HTML, and ANSI. No signup required.
 - [Women of Graphic Design](https://womenofgraphicdesign.org/): A project focused on exhibiting the contributions of women in graphic design and exploring issues of gender-equality in education provided by design institutions.
 - [InspirationGrid](https://theinspirationgrid.com/): Curated daily dose of creative inspiration including graphic design, architecture, photography, and art from around the world.
 
