@@ -117,6 +117,13 @@
       "pricing": "freemium"
     },
     {
+      "title": "Plainify",
+      "link": "https://plainify.app/",
+      "description": "Structured specification files for vibe coding tools.",
+      "globalIndex": 31,
+      "pricing": null
+    },
+    {
       "title": "Poe",
       "link": "https://poe.com/",
       "description": "Explore multiple AI chatbots in one place. Chat with ChatGPT, Claude, and other AI models. *Quora*",
