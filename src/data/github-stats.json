@@ -1,6 +1,6 @@
 {
   "stars": 28,
-  "forks": 8,
+  "forks": 9,
   "watchers": 28,
   "people": [
     {
@@ -8,7 +8,7 @@
       "login": "selfishprimate",
       "avatar_url": "https://avatars.githubusercontent.com/u/8937245?v=4",
       "html_url": "https://github.com/selfishprimate",
-      "contributions": 361,
+      "contributions": 368,
       "type": "contributor"
     },
     {
@@ -48,6 +48,14 @@
       "login": "NamVTran",
       "avatar_url": "https://avatars.githubusercontent.com/u/79432552?v=4",
       "html_url": "https://github.com/NamVTran",
+      "contributions": 1,
+      "type": "contributor"
+    },
+    {
+      "id": 57147405,
+      "login": "Lucas-CX",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57147405?v=4",
+      "html_url": "https://github.com/Lucas-CX",
       "contributions": 1,
       "type": "contributor"
     },
@@ -274,7 +282,7 @@
       "login": "selfishprimate",
       "avatar_url": "https://avatars.githubusercontent.com/u/8937245?v=4",
       "html_url": "https://github.com/selfishprimate",
-      "contributions": 361,
+      "contributions": 368,
       "type": "contributor"
     },
     {
@@ -318,6 +326,14 @@
       "type": "contributor"
     },
     {
+      "id": 57147405,
+      "login": "Lucas-CX",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57147405?v=4",
+      "html_url": "https://github.com/Lucas-CX",
+      "contributions": 1,
+      "type": "contributor"
+    },
+    {
       "id": 12797325,
       "login": "mystijk",
       "avatar_url": "https://avatars.githubusercontent.com/u/12797325?v=4",
@@ -340,18 +356,10 @@
       "html_url": "https://github.com/kirqi",
       "starred_at": "2026-02-19T07:03:51Z",
       "type": "stargazer"
-    },
-    {
-      "id": 106707929,
-      "login": "Gloomstick",
-      "avatar_url": "https://avatars.githubusercontent.com/u/106707929?v=4",
-      "html_url": "https://github.com/Gloomstick",
-      "starred_at": "2025-12-27T20:31:54Z",
-      "type": "stargazer"
     }
   ],
-  "totalPeople": 33,
-  "totalContributors": 6,
+  "totalPeople": 34,
+  "totalContributors": 7,
   "totalStargazers": 27,
-  "lastUpdated": "2026-09-14T03:57:18.903Z"
+  "lastUpdated": "2026-09-15T03:56:53.531Z"
 }
