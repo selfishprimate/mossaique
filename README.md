@@ -266,6 +266,7 @@ _Free and premium icon libraries for your projects. Thousands of icons in SVG, P
 - [UI8](https://ui8.net/category/icons): Premium marketplace for design resources including thousands of vector icon sets. High-quality assets for mobile, web, and print projects.
 - [Lucide](https://lucide.dev/icons/): Lucide is an open-source icon library that provides 1000+ vector files for displaying icons and symbols in digital and non-digital projects.
 - [VectorElements](https://vectorelements.net/icons/): Download free SVG icons and modern vector icon packs for websites, mobile apps, user interfaces, branding, social media, and marketing projects. VectorElements offers professionally designed icons in AI, EPS, SVG, PNG, JPG, and PDF formats, with premium collections also available.
+Search hundreds of thousands of open-source SVG icons across many icon sets, compare styles, preview icons and copy clean SVG code for development workflows
 
 ## Inspiration
 
