@@ -245,6 +245,7 @@ _Professional graphic design resources and inspiration. Discover tools, template
 - [Image to ASCII](https://imagetoascii.art/): Free browser-based image-to-ASCII converter for retro visuals and README graphics. Processes images locally, with adjustable character styles, dithering, and color; copies text or Markdown and exports TXT, PNG, SVG, HTML, and ANSI. No signup required.
 - [Women of Graphic Design](https://womenofgraphicdesign.org/): A project focused on exhibiting the contributions of women in graphic design and exploring issues of gender-equality in education provided by design institutions.
 - [InspirationGrid](https://theinspirationgrid.com/): Curated daily dose of creative inspiration including graphic design, architecture, photography, and art from around the world.
+- [Kanyon Image Studio](https://kanyonw.com/image-compressor): Free browser-based image preparation for designers: compress, resize/crop, convert HEIC to JPG, export JPG/PNG/WebP and clean personal metadata from JPG/PNG. Up to 50 photos per batch, with previews, a built-in sample and ZIP downloads (50 MB/image, 200 MB/batch, 60 outputs/run). No signup or image uploads; image processing stays on-device. Site analytics and HEIC/ZIP libraries may load online. Built and submitted by Kanyon Studio.
 
 ## Icons
 
