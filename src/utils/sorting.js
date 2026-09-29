@@ -65,6 +65,9 @@ export const sortResources = (resources, sortBy) => {
       case 'popular':
         return (b.popularityScore || 0) - (a.popularityScore || 0)
       case 'recent':
+        // Newest first by the date the resource was added to README.md. Entries
+        // added on the same day fall back to README order.
+        if (a.addedAt !== b.addedAt) return (b.addedAt || '').localeCompare(a.addedAt || '')
         return (b.globalIndex || 0) - (a.globalIndex || 0)
       case 'alphabetic':
         return a.title.localeCompare(b.title)

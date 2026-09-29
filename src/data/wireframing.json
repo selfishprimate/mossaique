@@ -9,6 +9,7 @@
       "link": "https://sketchize.com",
       "description": "The easiest way to turn your ideas into lovely sketches!",
       "globalIndex": 283,
+      "addedAt": "2020-09-21",
       "pricing": "free"
     },
     {
@@ -16,6 +17,7 @@
       "link": "https://sketchsheets.com/",
       "description": "Ready to print sketch sheet templates for UX designers.",
       "globalIndex": 284,
+      "addedAt": "2020-09-21",
       "pricing": "free"
     },
     {
@@ -23,6 +25,7 @@
       "link": "https://sneakpeekit.com/",
       "description": "Printable grid paper templates for design wireframing. Free downloadable PDFs for sketching mobile, tablet, desktop, and web layouts.",
       "globalIndex": 285,
+      "addedAt": "2020-09-21",
       "pricing": "free"
     },
     {
@@ -30,6 +33,7 @@
       "link": "https://www.zenwireframe.com/",
       "description": "Create mockups of your websites and apps in just minutes.",
       "globalIndex": 286,
+      "addedAt": "2022-01-14",
       "pricing": "freemium"
     }
   ]

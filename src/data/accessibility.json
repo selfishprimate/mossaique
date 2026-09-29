@@ -9,6 +9,7 @@
       "link": "https://usecontrast.com/guide",
       "description": "This short guide will help you achieve the accessibility standards outlined in the WCAG 2.0, specifically with foreground and background color when it comes to text.",
       "globalIndex": 0,
+      "addedAt": "2022-01-13",
       "pricing": "free"
     },
     {
@@ -16,27 +17,31 @@
       "link": "https://www.who.int/en/news-room/fact-sheets/detail/blindness-and-visual-impairment",
       "description": "Globally, at least 2.2 billion people have a near or distance vision impairment. In at least 1 billion...",
       "globalIndex": 1,
+      "addedAt": "2022-01-13",
       "pricing": "free"
     },
     {
       "title": "Color Review",
       "link": "https://color.review/",
       "description": "What you need to know about colors & accessibility.",
-      "globalIndex": 4,
+      "globalIndex": 2,
+      "addedAt": "2022-01-13",
       "pricing": "free"
     },
     {
       "title": "Colorable",
       "link": "https://colorable.jxnblk.com/",
       "description": "Test color combinations for WCAG accessibility compliance. Quickly see contrast ratios between foreground and background colors in real-time.",
-      "globalIndex": 2,
+      "globalIndex": 3,
+      "addedAt": "2020-09-23",
       "pricing": "free"
     },
     {
       "title": "Colors",
       "link": "https://clrs.cc/a11y/",
       "description": "Accessibility is important! Mix and match these color classes to create a variety of accessible themes.",
-      "globalIndex": 3,
+      "globalIndex": 4,
+      "addedAt": "2020-09-23",
       "pricing": "free"
     },
     {
@@ -44,6 +49,7 @@
       "link": "https://usecontrast.com/",
       "description": "A macOS app for quick access to WCAG color contrast ratios.",
       "globalIndex": 5,
+      "addedAt": "2022-01-13",
       "pricing": "paid"
     },
     {
@@ -51,6 +57,7 @@
       "link": "https://www.getstark.co/",
       "description": "Comprehensive accessibility toolkit integrated into your design workflow. Check contrast ratios, simulate color blindness, and ensure WCAG compliance directly in Figma, Sketch, and Adobe XD.",
       "globalIndex": 6,
+      "addedAt": "2022-01-13",
       "pricing": "freemium"
     },
     {
@@ -58,6 +65,7 @@
       "link": "https://www.a11yproject.com/",
       "description": "The A11Y Project is a community-driven effort to make digital accessibility easier.",
       "globalIndex": 7,
+      "addedAt": "2022-01-13",
       "pricing": "free"
     },
     {
@@ -65,6 +73,7 @@
       "link": "https://www.w3.org/WAI/standards-guidelines/wcag/",
       "description": "Introducing the Web Content Accessibility Guidelines (WCAG), including WCAG 2.0 and WCAG 2.1.",
       "globalIndex": 8,
+      "addedAt": "2022-01-13",
       "pricing": "free"
     },
     {
@@ -72,6 +81,7 @@
       "link": "https://whocanuse.com/",
       "description": "It's a tool that brings attention and understanding to how color contrast can affect different people with visual impairments.",
       "globalIndex": 9,
+      "addedAt": "2022-01-13",
       "pricing": "free"
     }
   ]

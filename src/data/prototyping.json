@@ -9,6 +9,7 @@
       "link": "https://balsamiq.com/",
       "description": "Rapid low-fidelity wireframing tool with hand-drawn aesthetics. Perfect for quickly sketching user interfaces and communicating design ideas without getting lost in details.",
       "globalIndex": 227,
+      "addedAt": "2020-09-24",
       "pricing": "paid"
     },
     {
@@ -16,6 +17,7 @@
       "link": "https://www.flinto.com/",
       "description": "Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs.",
       "globalIndex": 228,
+      "addedAt": "2022-01-04",
       "pricing": "paid"
     },
     {
@@ -23,6 +25,7 @@
       "link": "https://www.fluidui.com/",
       "description": "Fast prototyping tool for creating web and mobile app mockups. Over 2000 built-in widgets and design components for rapid wireframing.",
       "globalIndex": 229,
+      "addedAt": "2020-09-24",
       "pricing": "freemium"
     },
     {
@@ -30,6 +33,7 @@
       "link": "https://www.justinmind.com/",
       "description": "From wireframes to highly interactive prototypes.",
       "globalIndex": 230,
+      "addedAt": "2020-09-24",
       "pricing": "freemium"
     },
     {
@@ -37,6 +41,7 @@
       "link": "https://marvelapp.com/",
       "description": "Marvel has everything you need to bring ideas to life and transform how you create digital products with your team.",
       "globalIndex": 231,
+      "addedAt": "2020-09-24",
       "pricing": "freemium"
     },
     {
@@ -44,6 +49,7 @@
       "link": "https://www.mockflow.com/",
       "description": "MockFlow is the UI planning platform that your team needs to kickstart software projects.",
       "globalIndex": 232,
+      "addedAt": "2020-09-24",
       "pricing": "freemium"
     },
     {
@@ -51,6 +57,7 @@
       "link": "https://moqups.com/",
       "description": "A streamlined web app that helps you create and collaborate in real-time on wireframes, mockups, diagrams and prototypes.",
       "globalIndex": 233,
+      "addedAt": "2020-09-24",
       "pricing": "freemium"
     },
     {
@@ -58,6 +65,7 @@
       "link": "https://www.omnigroup.com/omnigraffle/",
       "description": "Professional diagramming and digital illustration tool for Mac. Create wireframes, diagrams, flowcharts, and complex graphics with precision.",
       "globalIndex": 234,
+      "addedAt": "2020-09-24",
       "pricing": "paid"
     },
     {
@@ -65,6 +73,7 @@
       "link": "https://origami.design/",
       "description": "Design, animate, and prototype. All-in-one.",
       "globalIndex": 235,
+      "addedAt": "2022-01-04",
       "pricing": "free"
     },
     {
@@ -72,6 +81,7 @@
       "link": "https://overflow.io/",
       "description": "Create interactive user flow diagrams that tell a story.",
       "globalIndex": 236,
+      "addedAt": "2022-03-16",
       "pricing": "paid"
     },
     {
@@ -79,6 +89,7 @@
       "link": "https://pidoco.com/en",
       "description": "Pidoco is software that lets you quickly create click-through wireframes and fully interactive UX prototypes.",
       "globalIndex": 237,
+      "addedAt": "2020-09-24",
       "pricing": "freemium"
     },
     {
@@ -86,6 +97,7 @@
       "link": "https://proto.io/",
       "description": "Create fully interactive, high-fidelity prototypes for mobile, desktop, and web. Add complex animations, transitions, and user flows without coding.",
       "globalIndex": 238,
+      "addedAt": "2020-09-24",
       "pricing": "paid"
     },
     {
@@ -93,6 +105,7 @@
       "link": "https://www.uxpin.com/",
       "description": "Design and manage your entire UX/UI project in one tool.",
       "globalIndex": 239,
+      "addedAt": "2020-09-24",
       "pricing": "paid"
     },
     {
@@ -100,6 +113,7 @@
       "link": "https://www.visily.ai",
       "description": "The simplest collaborative UI design software with an intuitive interface, rich UI library, and AI features.",
       "globalIndex": 240,
+      "addedAt": "2022-09-07",
       "pricing": "freemium"
     },
     {
@@ -107,6 +121,7 @@
       "link": "https://www.uxpin.com/",
       "description": "UXPin's wireframing mode for creating low-fidelity layouts quickly. Focus on structure and flow before visual design.",
       "globalIndex": 241,
+      "addedAt": "2020-09-24",
       "pricing": "paid"
     }
   ]

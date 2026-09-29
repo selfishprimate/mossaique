@@ -47,7 +47,8 @@ Category IDs are kebab-cased section titles and become the route (`/:id`) direct
 
 The parser layers extra fields onto each resource:
 
-- `globalIndex` — the resource's position in README order. This is what "Recent" sorting uses (`src/utils/sorting.js`), so README ordering is functionally significant, not cosmetic.
+- `globalIndex` — the resource's position in README order. Only a tie-breaker now; entries are kept alphabetical within each section (`CONTRIBUTING.md`), and the parser sorts them anyway.
+- `addedAt` — the date the resource first appeared, read from `src/data/added-dates.json` and keyed by link. This is what "Recent" sorting uses (`src/utils/sorting.js`). The parser stamps any link it has not seen before with today's date and rewrites that file, which the parse-readme workflow commits along with the category JSON. The initial values were backfilled from the git history of README.md, so changing a resource's URL loses its original date and re-stamps it as new.
 - `pricing` — looked up in `src/data/pricing.json` by a slug derived from the resource title (lowercased, non-alphanumerics → `-`). A title change breaks its pricing entry unless the key is updated too. Drives the free/freemium/paid filter.
 
 Popularity ranking is computed client-side in `calculatePopularity()` — a heuristic over hardcoded domain and keyword score tables, not real metrics.

@@ -8,49 +8,56 @@
       "title": "Adobe Firefly",
       "link": "https://www.adobe.com/products/firefly.html",
       "description": "Generative AI integrated into Adobe Creative Cloud apps. Generate images, text effects, and more. *Adobe*",
-      "globalIndex": 16,
+      "globalIndex": 10,
+      "addedAt": "2025-11-04",
       "pricing": "freemium"
     },
     {
       "title": "ChatGPT",
       "link": "https://chat.openai.com/",
       "description": "ChatGPT is an AI-powered conversational assistant that can help with writing, coding, brainstorming, and more. *OpenAI*",
-      "globalIndex": 10,
+      "globalIndex": 11,
+      "addedAt": "2025-11-04",
       "pricing": "freemium"
     },
     {
       "title": "Claude",
       "link": "https://claude.ai/",
       "description": "Claude is an AI assistant by Anthropic that excels at complex reasoning, analysis, and creative tasks with a focus on safety and helpfulness. *Anthropic*",
-      "globalIndex": 11,
+      "globalIndex": 12,
+      "addedAt": "2025-11-04",
       "pricing": "freemium"
     },
     {
       "title": "Copy.ai",
       "link": "https://www.copy.ai/",
       "description": "AI-powered copywriting tool that helps you create marketing copy, blog posts, and more. *Copy.ai*",
-      "globalIndex": 19,
+      "globalIndex": 13,
+      "addedAt": "2025-11-04",
       "pricing": "freemium"
     },
     {
       "title": "DALL-E",
       "link": "https://openai.com/dall-e",
       "description": "Generate, edit, and create variations of images using AI. Create realistic images and art from natural language descriptions. *OpenAI*",
-      "globalIndex": 13,
+      "globalIndex": 14,
+      "addedAt": "2025-11-04",
       "pricing": "paid"
     },
     {
       "title": "ElevenLabs",
       "link": "https://elevenlabs.io/",
       "description": "Generate realistic AI voices and speech. Create natural-sounding voiceovers in multiple languages. *ElevenLabs*",
-      "globalIndex": 22,
+      "globalIndex": 15,
+      "addedAt": "2025-11-04",
       "pricing": "freemium"
     },
     {
       "title": "Framer AI",
       "link": "https://www.framer.com/ai",
       "description": "Generate and publish websites with AI. Start with text, customize with Framer's design tools. *Framer*",
-      "globalIndex": 24,
+      "globalIndex": 16,
+      "addedAt": "2025-11-04",
       "pricing": "freemium"
     },
     {
@@ -58,104 +65,119 @@
       "link": "https://gamma.app/",
       "description": "Create beautiful presentations, documents, and websites with AI. No design skills required. *Gamma*",
       "globalIndex": 17,
+      "addedAt": "2025-11-04",
       "pricing": "freemium"
     },
     {
       "title": "Google Gemini",
       "link": "https://gemini.google.com/",
       "description": "Google's most capable AI model for text, code, image, and more. Multimodal AI assistant. *Google*",
-      "globalIndex": 27,
+      "globalIndex": 18,
+      "addedAt": "2025-11-04",
       "pricing": "freemium"
     },
     {
       "title": "Havi",
       "link": "https://www.havi.ai",
       "description": "AI presentation builder that turns a text prompt into a fully designed slide deck. Exports to PPTX for editing in PowerPoint or Google Slides.",
-      "globalIndex": 30,
+      "globalIndex": 19,
+      "addedAt": "2026-06-01",
       "pricing": null
     },
     {
       "title": "Hugging Face",
       "link": "https://huggingface.co/",
       "description": "The AI community building the future. Access thousands of AI models, datasets, and apps. *Hugging Face*",
-      "globalIndex": 28,
+      "globalIndex": 20,
+      "addedAt": "2025-11-04",
       "pricing": "freemium"
     },
     {
       "title": "Ideogram",
       "link": "https://ideogram.ai/",
       "description": "Free AI image generator that creates stunning visuals from text prompts in seconds. Excellent for generating images with text, logos, and creative designs.",
-      "globalIndex": 29,
+      "globalIndex": 21,
+      "addedAt": "2025-11-06",
       "pricing": "freemium"
     },
     {
       "title": "Jasper",
       "link": "https://www.jasper.ai/",
       "description": "AI content platform for businesses. Create high-quality content faster with AI. *Jasper*",
-      "globalIndex": 20,
+      "globalIndex": 22,
+      "addedAt": "2025-11-04",
       "pricing": "paid"
     },
     {
       "title": "Microsoft Copilot",
       "link": "https://copilot.microsoft.com/",
       "description": "AI-powered assistant integrated across Microsoft products. Get help with writing, coding, and productivity. *Microsoft*",
-      "globalIndex": 26,
+      "globalIndex": 23,
+      "addedAt": "2025-11-04",
       "pricing": "freemium"
     },
     {
       "title": "Midjourney",
       "link": "https://www.midjourney.com/",
       "description": "Create stunning AI-generated images from text descriptions. Perfect for concept art, illustrations, and creative exploration. *Midjourney*",
-      "globalIndex": 12,
+      "globalIndex": 24,
+      "addedAt": "2025-11-04",
       "pricing": "paid"
     },
     {
       "title": "Perplexity",
       "link": "https://www.perplexity.ai/",
       "description": "AI-powered search engine that provides accurate answers with sources. Get instant, reliable information on any topic. *Perplexity*",
-      "globalIndex": 18,
+      "globalIndex": 25,
+      "addedAt": "2025-11-04",
       "pricing": "freemium"
     },
     {
       "title": "Plainify",
       "link": "https://plainify.app/",
       "description": "Structured specification files for vibe coding tools.",
-      "globalIndex": 31,
+      "globalIndex": 26,
+      "addedAt": "2026-09-14",
       "pricing": null
     },
     {
       "title": "Poe",
       "link": "https://poe.com/",
       "description": "Explore multiple AI chatbots in one place. Chat with ChatGPT, Claude, and other AI models. *Quora*",
-      "globalIndex": 23,
+      "globalIndex": 27,
+      "addedAt": "2025-11-04",
       "pricing": "freemium"
     },
     {
       "title": "Runway",
       "link": "https://runwayml.com/",
       "description": "AI-powered creative tools for video editing, image generation, and more. Make anything you can imagine. *Runway*",
-      "globalIndex": 15,
+      "globalIndex": 28,
+      "addedAt": "2025-11-04",
       "pricing": "freemium"
     },
     {
       "title": "Stable Diffusion",
       "link": "https://stability.ai/",
       "description": "Open-source AI model for generating detailed images from text descriptions. *Stability AI*",
-      "globalIndex": 14,
+      "globalIndex": 29,
+      "addedAt": "2025-11-04",
       "pricing": "free"
     },
     {
       "title": "Synthesia",
       "link": "https://www.synthesia.io/",
       "description": "Create AI videos with avatars and voiceovers in minutes. No cameras, microphones, or actors needed. *Synthesia*",
-      "globalIndex": 21,
+      "globalIndex": 30,
+      "addedAt": "2025-11-04",
       "pricing": "paid"
     },
     {
       "title": "v0",
       "link": "https://v0.dev/",
       "description": "Generate UI components with AI. Create React components from text descriptions. *Vercel*",
-      "globalIndex": 25,
+      "globalIndex": 31,
+      "addedAt": "2025-11-04",
       "pricing": "freemium"
     }
   ]

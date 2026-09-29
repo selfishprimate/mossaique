@@ -9,6 +9,7 @@
       "link": "https://www.bardeen.ai/",
       "description": "Bardeen saves you time by automating repetitive tasks with a shortcut. It combines a powerful workflow builder, AI-based recommendations, and contextual automations.",
       "globalIndex": 219,
+      "addedAt": "2022-04-01",
       "pricing": "freemium"
     },
     {
@@ -16,6 +17,7 @@
       "link": "https://miro.com/",
       "description": "The online collaborative whiteboard platform to bring teams together, anytime, anywhere.",
       "globalIndex": 220,
+      "addedAt": "2021-04-24",
       "pricing": "freemium"
     },
     {
@@ -23,6 +25,7 @@
       "link": "https://www.notion.so/",
       "description": "One tool for your whole team. Write, plan, and get organized.",
       "globalIndex": 221,
+      "addedAt": "2021-04-24",
       "pricing": "freemium"
     },
     {
@@ -30,6 +33,7 @@
       "link": "https://obsidian.md/",
       "description": "Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.",
       "globalIndex": 222,
+      "addedAt": "2022-03-03",
       "pricing": "freemium"
     },
     {
@@ -37,6 +41,7 @@
       "link": "https://pomofocus.io/",
       "description": "An online Pomodoro Timer to boost your productivity.",
       "globalIndex": 223,
+      "addedAt": "2022-01-13",
       "pricing": "free"
     },
     {
@@ -44,6 +49,7 @@
       "link": "https://slack.com/",
       "description": "Transform the way you work with one place for everyone and everything you need to get stuff done.",
       "globalIndex": 224,
+      "addedAt": "2022-03-30",
       "pricing": "freemium"
     },
     {
@@ -51,6 +57,7 @@
       "link": "https://www.taskade.com/",
       "description": "Chat, organize, and get work done with real-time to-do lists, mind maps, org charts, and more.",
       "globalIndex": 225,
+      "addedAt": "2022-06-29",
       "pricing": "freemium"
     },
     {
@@ -58,6 +65,7 @@
       "link": "https://zapier.com/",
       "description": "Easy automation for busy people. Zapier moves info between your web apps automatically, so you can focus on your most important work.",
       "globalIndex": 226,
+      "addedAt": "2022-03-30",
       "pricing": "freemium"
     }
   ]

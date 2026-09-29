@@ -24,9 +24,9 @@ _Discover essential accessibility design tools and resources. Learn WCAG guideli
 
 - [Accessibility Guide](https://usecontrast.com/guide): This short guide will help you achieve the accessibility standards outlined in the WCAG 2.0, specifically with foreground and background color when it comes to text.
 - [Blindness and Vision Impairment](https://www.who.int/en/news-room/fact-sheets/detail/blindness-and-visual-impairment): Globally, at least 2.2 billion people have a near or distance vision impairment. In at least 1 billion...
+- [Color Review](https://color.review/): What you need to know about colors & accessibility.
 - [Colorable](https://colorable.jxnblk.com/): Test color combinations for WCAG accessibility compliance. Quickly see contrast ratios between foreground and background colors in real-time.
 - [Colors](https://clrs.cc/a11y/): Accessibility is important! Mix and match these color classes to create a variety of accessible themes.
-- [Color Review](https://color.review/): What you need to know about colors & accessibility.
 - [Contrast](https://usecontrast.com/): A macOS app for quick access to WCAG color contrast ratios.
 - [Stark](https://www.getstark.co/): Comprehensive accessibility toolkit integrated into your design workflow. Check contrast ratios, simulate color blindness, and ensure WCAG compliance directly in Figma, Sketch, and Adobe XD.
 - [The A11y Project](https://www.a11yproject.com/): The A11Y Project is a community-driven effort to make digital accessibility easier.
@@ -37,35 +37,35 @@ _Discover essential accessibility design tools and resources. Learn WCAG guideli
 
 _Explore cutting-edge AI tools for designers and developers. From ChatGPT and Claude to Midjourney and DALL-E, discover AI-powered tools for image generation, copywriting, video creation, and creative work. Transform your design workflow with artificial intelligence._
 
+- [Adobe Firefly](https://www.adobe.com/products/firefly.html): Generative AI integrated into Adobe Creative Cloud apps. Generate images, text effects, and more. *Adobe*
 - [ChatGPT](https://chat.openai.com/): ChatGPT is an AI-powered conversational assistant that can help with writing, coding, brainstorming, and more. *OpenAI*
 - [Claude](https://claude.ai/): Claude is an AI assistant by Anthropic that excels at complex reasoning, analysis, and creative tasks with a focus on safety and helpfulness. *Anthropic*
-- [Midjourney](https://www.midjourney.com/): Create stunning AI-generated images from text descriptions. Perfect for concept art, illustrations, and creative exploration. *Midjourney*
-- [DALL-E](https://openai.com/dall-e): Generate, edit, and create variations of images using AI. Create realistic images and art from natural language descriptions. *OpenAI*
-- [Stable Diffusion](https://stability.ai/): Open-source AI model for generating detailed images from text descriptions. *Stability AI*
-- [Runway](https://runwayml.com/): AI-powered creative tools for video editing, image generation, and more. Make anything you can imagine. *Runway*
-- [Adobe Firefly](https://www.adobe.com/products/firefly.html): Generative AI integrated into Adobe Creative Cloud apps. Generate images, text effects, and more. *Adobe*
-- [Gamma](https://gamma.app/): Create beautiful presentations, documents, and websites with AI. No design skills required. *Gamma*
-- [Perplexity](https://www.perplexity.ai/): AI-powered search engine that provides accurate answers with sources. Get instant, reliable information on any topic. *Perplexity*
 - [Copy.ai](https://www.copy.ai/): AI-powered copywriting tool that helps you create marketing copy, blog posts, and more. *Copy.ai*
-- [Jasper](https://www.jasper.ai/): AI content platform for businesses. Create high-quality content faster with AI. *Jasper*
-- [Synthesia](https://www.synthesia.io/): Create AI videos with avatars and voiceovers in minutes. No cameras, microphones, or actors needed. *Synthesia*
+- [DALL-E](https://openai.com/dall-e): Generate, edit, and create variations of images using AI. Create realistic images and art from natural language descriptions. *OpenAI*
 - [ElevenLabs](https://elevenlabs.io/): Generate realistic AI voices and speech. Create natural-sounding voiceovers in multiple languages. *ElevenLabs*
-- [Poe](https://poe.com/): Explore multiple AI chatbots in one place. Chat with ChatGPT, Claude, and other AI models. *Quora*
 - [Framer AI](https://www.framer.com/ai): Generate and publish websites with AI. Start with text, customize with Framer's design tools. *Framer*
-- [v0](https://v0.dev/): Generate UI components with AI. Create React components from text descriptions. *Vercel*
-- [Microsoft Copilot](https://copilot.microsoft.com/): AI-powered assistant integrated across Microsoft products. Get help with writing, coding, and productivity. *Microsoft*
+- [Gamma](https://gamma.app/): Create beautiful presentations, documents, and websites with AI. No design skills required. *Gamma*
 - [Google Gemini](https://gemini.google.com/): Google's most capable AI model for text, code, image, and more. Multimodal AI assistant. *Google*
+- [Havi](https://www.havi.ai): AI presentation builder that turns a text prompt into a fully designed slide deck. Exports to PPTX for editing in PowerPoint or Google Slides.
 - [Hugging Face](https://huggingface.co/): The AI community building the future. Access thousands of AI models, datasets, and apps. *Hugging Face*
 - [Ideogram](https://ideogram.ai/): Free AI image generator that creates stunning visuals from text prompts in seconds. Excellent for generating images with text, logos, and creative designs.
-- [Havi](https://www.havi.ai): AI presentation builder that turns a text prompt into a fully designed slide deck. Exports to PPTX for editing in PowerPoint or Google Slides.
+- [Jasper](https://www.jasper.ai/): AI content platform for businesses. Create high-quality content faster with AI. *Jasper*
+- [Microsoft Copilot](https://copilot.microsoft.com/): AI-powered assistant integrated across Microsoft products. Get help with writing, coding, and productivity. *Microsoft*
+- [Midjourney](https://www.midjourney.com/): Create stunning AI-generated images from text descriptions. Perfect for concept art, illustrations, and creative exploration. *Midjourney*
+- [Perplexity](https://www.perplexity.ai/): AI-powered search engine that provides accurate answers with sources. Get instant, reliable information on any topic. *Perplexity*
 - [Plainify](https://plainify.app/): Structured specification files for vibe coding tools.
+- [Poe](https://poe.com/): Explore multiple AI chatbots in one place. Chat with ChatGPT, Claude, and other AI models. *Quora*
+- [Runway](https://runwayml.com/): AI-powered creative tools for video editing, image generation, and more. Make anything you can imagine. *Runway*
+- [Stable Diffusion](https://stability.ai/): Open-source AI model for generating detailed images from text descriptions. *Stability AI*
+- [Synthesia](https://www.synthesia.io/): Create AI videos with avatars and voiceovers in minutes. No cameras, microphones, or actors needed. *Synthesia*
+- [v0](https://v0.dev/): Generate UI components with AI. Create React components from text descriptions. *Vercel*
 
 ## Articles
 
 _Read the best design articles and thought leadership content. Expert insights on UX/UI design, usability heuristics, design thinking, and industry best practices from Nielsen Norman Group, A List Apart, and other leading sources._
 
-- [8 Brilliant Examples Of Social Proof On The Web](https://www.crazyegg.com/blog/examples-social-proof-on-web/): Social proof is powerful stuff folks. And it’s everywhere you look on today’s social web.
 - [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/): Jakob Nielsen's 10 general principles for interaction design. They are called "heuristics" because they are broad rules of thumb and not specific usability guidelines.
+- [8 Brilliant Examples Of Social Proof On The Web](https://www.crazyegg.com/blog/examples-social-proof-on-web/): Social proof is powerful stuff folks. And it’s everywhere you look on today’s social web.
 - [How We Hold Our Gadgets?](https://alistapart.com/article/how-we-hold-our-gadgets/): Where do hands and fingers fall on the device?
 - [Mental Models](https://www.nngroup.com/articles/mental-models/): What users believe they know about a UI strongly impacts how they use it.
 - [Mobile Context Model](http://www.giantant.com/output/mobile_context_model.pdf): A heuristic guide for mobile design.
@@ -102,12 +102,12 @@ _Follow top design blogs and publications for daily inspiration. Get updates fro
 _Essential design books every designer should read. Curated collection of influential books on UX design, UI design, typography, color theory, and design thinking. Learn from classics like "Don't Make Me Think" and "The Design of Everyday Things"._
 
 - [100 Things Every Designer Needs to Know About People](https://www.amazon.com/Things-Designer-People-Voices-Matter/dp/0321767535): This book combines real science and research with practical examples to deliver a guide every designer needs.
+- [Creative Confidence: Unleashing the Creative Potential Within Us All](https://www.amazon.com/Creative-Confidence-Unleashing-Potential-Within/dp/038534936X/): David and Tom Kelley identify the principles and strategies that will allow us to tap into our creative potential in our work lives, and in our personal lives.
 - [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515): Witty, commonsensical, and eminently practical, it’s one of the best-loved and most recommended books on the subject.
 - [GUI Bloopers 2.0: Common User Interface Design Don'ts and Dos](https://www.amazon.com/GUI-Bloopers-2-0-Interactive-Technologies/dp/0123706432): GUI Bloopers 2.0, Second Edition, is the completely updated and revised version of GUI Bloopers.
 - [People Aren't Robots: A Practical Guide to the Psychology and Technique of Questionnaire Design](https://www.amazon.com/People-Arent-Robots-psychology-questionnaire/dp/1539730646): This book will help marketers, brand managers, and advertising executives who may have less experience in the research industry create great questionnaires and collect high quality data.
 - [Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292): Using practical advice, plenty of illustrations, and his trademark humor, Steve explains how to test any design, from a sketch on a napkin to a fully-functioning web site or application.
 - [The Design of Everyday Things](https://www.amazon.com/gp/product/B00E257T6C/): Design doesn't have to complicated, which is why this guide to human-centered design shows that usability is just as important as aesthetics.
-- [Creative Confidence: Unleashing the Creative Potential Within Us All](https://www.amazon.com/Creative-Confidence-Unleashing-Potential-Within/dp/038534936X/): David and Tom Kelley identify the principles and strategies that will allow us to tap into our creative potential in our work lives, and in our personal lives.
 
 ## Color
 
@@ -116,28 +116,28 @@ _Find the perfect color palette for your design projects. Explore color generato
 - [Adobe Color](https://color.adobe.com/tr/create/color-wheel): Professional color wheel tool from Adobe for creating harmonious color schemes. Extract colors from images, explore trending palettes, and test accessibility ratios.
 - [BrandColors](https://brandcolors.net/): The biggest collection of official brand color codes around.
 - [Branition Colors](https://branition.com/colors): Hand-curated collection of color palettes best fitted for branding.
-- [Colorable](https://colorable.jxnblk.com/): Contrast is the difference in luminance or color that makes an object distinguishable.
-- [ColorBox](https://colorbox.io/): Advanced color palette generator from Lyft Design. Create multi-step color systems with custom interpolation and accessibility features built-in.
 - [Color Claim](https://vanschneider.com/colors): Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for your future projects.
-- [Colordot](https://color.hailpixel.com/): Intuitive color picker that lets you create palettes by swiping through hues. Simple, gesture-based interface for quick color selection.
 - [Color Hunt](https://colorhunt.co/): Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
 - [Color Oracle](https://colororacle.org/): Color Oracle is a free color blindness simulator for Windows, Mac and Linux.
+- [Colorable](https://colorable.jxnblk.com/): Contrast is the difference in luminance or color that makes an object distinguishable.
+- [ColorBox](https://colorbox.io/): Advanced color palette generator from Lyft Design. Create multi-step color systems with custom interpolation and accessibility features built-in.
+- [Colordot](https://color.hailpixel.com/): Intuitive color picker that lets you create palettes by swiping through hues. Simple, gesture-based interface for quick color selection.
+- [Colors](https://clrs.cc/a11y/): Mix and match these color classes to create a variety of accessible themes.
 - [Colorsinspo](https://colorsinspo.com/): Thousands of beautiful color palettes you can use it directly by one click.
 - [Colourco](https://colourco.de/): Interactive HSL color picker with real-time adjustments. Fine-tune hue, saturation, and lightness values with intuitive sliders and visual feedback.
 - [Coolors](https://coolors.co/): Lightning-fast color palette generator with AI assistance. Create, explore, and export beautiful color schemes with keyboard shortcuts and advanced tools.
-- [Colors](https://clrs.cc/a11y/): Mix and match these color classes to create a variety of accessible themes.
 - [Duo](https://duo.alexpate.uk/): Duo is a collection of colour combinations that I've curated from personal projects or that I've come across on the web.
 - [Flat UI Color Picker](https://www.flatuicolorpicker.com/): Curated collection of 199 flat design colors with instant copy-paste functionality. Perfect for modern, minimalist UI designs with ready-to-use hex codes.
 - [Happy Hues](https://www.happyhues.co/): See color palettes in context with real UI examples. Visualize how different color combinations work in actual website layouts before committing.
 - [Hex Colors](https://hexcolor.co/): A collection of free color tools that will help you choose the right color for your next project!
 - [HTML Color Codes](https://htmlcolorcodes.com/): Get HTML color codes, Hex color codes, RGB and HSL values with our color picker...
-- [UI Colors](https://uicolors.app/create): Generate complete color scales from a single hex color. Perfect for creating consistent color systems for Tailwind CSS and design systems.
 - [Leonardo](https://leonardocolor.io/): Leonardo is a one-of-a-kind tool for creating, managing, and sharing accessible color systems for user interface design and data visualization.
 - [Picular](https://picular.co/): Search for any keyword and get a curated color palette inspired by Google image results. Perfect for finding colors related to concepts, moods, or objects. 
 - [Pigment](https://pigment.shapefactory.co/): Create unique color palettes with this AI-powered tool. Generate harmonious color schemes and export them in various formats for your design projects.
 - [Pilestone](https://pilestone.com/pages/color-blindness-simulator-1): Test how your designs appear to people with different types of color blindness. Upload images to simulate various color vision deficiencies.
 - [Randoma11y](https://randoma11y.com/): Discover random, accessible color combinations that meet WCAG accessibility standards. Get inspired with color pairs that are both beautiful and usable.
 - [Tint & Shade Generator](https://maketintsandshades.com/): Produce tints and shades of a given hex color in 10% increments.
+- [UI Colors](https://uicolors.app/create): Generate complete color scales from a single hex color. Perfect for creating consistent color systems for Tailwind CSS and design systems.
 
 ## Design News
 
@@ -169,9 +169,10 @@ _Stay updated with the latest design news and trends. Daily updates on design to
 _Explore comprehensive design systems and component libraries from industry leaders. Learn from Material Design, iOS Human Interface Guidelines, Fluent, Carbon, and other world-class design systems. Build consistent products with reusable components._
 
 - [Atlassian](https://atlassian.design/): Use Atlassian’s end-to-end design language to create simple, intuitive and beautiful experiences.
+- [Carbon](https://www.ibm.com/design/language/): This is the guiding ethos behind IBM’s design philosophy and principles. This helps us distinguish every element and every experience Designed by IBM. *IBM*
+- [Cookbook](https://www.yelp.com/styleguide/): The styleguide is a resource for designers, product managers, and developers, providing a common language around Yelp’s UI patterns. *Yelp*
 - [Evergreen](https://evergreen.segment.com/): Evergreen is a React UI Framework for building ambitious products on the web. Brought to you by Segment.
 - [Fluent](https://www.microsoft.com/design/fluent/): Fluent is an open-source, cross-platform design system that gives designers and developers the frameworks they need to create engaging product experiences—accessibility, internationalization, and performance included. *Microsoft*
-- [Carbon](https://www.ibm.com/design/language/): This is the guiding ethos behind IBM’s design philosophy and principles. This helps us distinguish every element and every experience Designed by IBM. *IBM*
 - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/): Get in-depth information and UI resources for designing great apps that integrate seamlessly with Apple platforms. *Apple*
 - [Lightning Design System](https://www.lightningdesignsystem.com/): Salesforce Lightning Design System. Create the world’s best enterprise app experiences. *Salesforce*
 - [Material Design](https://material.io/): Material is a design system – backed by open-source code – that helps teams build high-quality digital experiences. *Google*
@@ -181,7 +182,6 @@ _Explore comprehensive design systems and component libraries from industry lead
 - [Solid](https://solid.buzzfeed.com/): Solid is BuzzFeed's CSS style guide. Influenced by frameworks like Basscss, Solid uses immutable, atomic CSS classes to rapidly prototype and develop features, providing consistent styling options along with the flexibility to create new layouts and designs without the need to write additional CSS. *BuzzFeed*
 - [Style Guides](http://styleguides.io/): Real life pattern libraries, code standards documents and content style guides.
 - [Uber](https://brand.uber.com/): These guidelines cover 9 elements: logo, color, composition, iconography, illustration, motion, photography, tone of voice, and typography.
-- [Cookbook](https://www.yelp.com/styleguide/): The styleguide is a resource for designers, product managers, and developers, providing a common language around Yelp’s UI patterns. *Yelp*
 
 ## Figma Plugins
 
@@ -218,8 +218,9 @@ _Essential frontend resources for designers who code. Explore CSS frameworks lik
 - [Github](https://github.com): The world's largest code hosting platform for version control and collaboration. Share code, collaborate on projects, and discover open-source resources.
 - [Grunt](https://gruntjs.com/): JavaScript task runner for automating repetitive development tasks. Minify files, run tests, compile Sass, and more with a vast plugin ecosystem.
 - [Gulp](https://gulpjs.com/): Streaming build system and task runner for automating frontend workflows. Faster than Grunt with code-over-configuration approach using Node streams.
-- [Hugo](https://gohugo.io/): The world’s fastest framework for building websites.
+- [HorizonX](https://horizonx.so/): A premium UI and production-ready code library for vibe coders, product designers, and frontend developers. HorizonX pairs editable Figma systems with React, Tailwind, HTML, and prompt-based assets so teams can start from a crafted visual foundation, preserve reusable components and design tokens, and adapt the result in Cursor, Lovable, v0, or their own codebase.
 - [HTML5 Boilerplate](https://html5boilerplate.com/): The web’s most popular front-end template.
+- [Hugo](https://gohugo.io/): The world’s fastest framework for building websites.
 - [Ionic](https://ionic.io/): Build faster, smarter, and into the future.
 - [Jekyll](https://jekyllrb.com/): Transform your plain text into static websites and blogs. No more databases, comment moderation, or pesky updates to install—just your content.
 - [Markdown Guide](https://www.markdownguide.org/): The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.
@@ -236,16 +237,15 @@ _Essential frontend resources for designers who code. Explore CSS frameworks lik
 - [TypeScript](https://www.typescriptlang.org/): TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
 - [Visual Studio Code](https://code.visualstudio.com/): Free, open-source code editor from Microsoft with IntelliSense, debugging, Git integration, and thousands of extensions. Supports virtually every programming language.
 - [Vue.js](https://vuejs.org/): An approachable, performant and versatile framework for building web user interfaces.
-- [HorizonX](https://horizonx.so/): A premium UI and production-ready code library for vibe coders, product designers, and frontend developers. HorizonX pairs editable Figma systems with React, Tailwind, HTML, and prompt-based assets so teams can start from a crafted visual foundation, preserve reusable components and design tokens, and adapt the result in Cursor, Lovable, v0, or their own codebase.
 
 ## Graphic Design
 
 _Professional graphic design resources and inspiration. Discover tools, templates, and inspiration for logo design, branding, print design, and visual communication. Explore galleries showcasing the work of talented graphic designers worldwide._
 
 - [Image to ASCII](https://imagetoascii.art/): Free browser-based image-to-ASCII converter for retro visuals and README graphics. Processes images locally, with adjustable character styles, dithering, and color; copies text or Markdown and exports TXT, PNG, SVG, HTML, and ANSI. No signup required.
-- [Women of Graphic Design](https://womenofgraphicdesign.org/): A project focused on exhibiting the contributions of women in graphic design and exploring issues of gender-equality in education provided by design institutions.
 - [InspirationGrid](https://theinspirationgrid.com/): Curated daily dose of creative inspiration including graphic design, architecture, photography, and art from around the world.
 - [Kanyon Image Studio](https://kanyonw.com/image-compressor): Free browser-based image preparation for designers: compress, resize/crop, convert HEIC to JPG, export JPG/PNG/WebP and clean personal metadata from JPG/PNG. Up to 50 photos per batch, with previews, a built-in sample and ZIP downloads (50 MB/image, 200 MB/batch, 60 outputs/run). No signup or image uploads; image processing stays on-device. Site analytics and HEIC/ZIP libraries may load online. Built and submitted by Kanyon Studio.
+- [Women of Graphic Design](https://womenofgraphicdesign.org/): A project focused on exhibiting the contributions of women in graphic design and exploring issues of gender-equality in education provided by design institutions.
 
 ## Icons
 
@@ -255,17 +255,17 @@ _Free and premium icon libraries for your projects. Thousands of icons in SVG, P
 - [Flaticon](https://www.flaticon.com/): Download free icons and stickers for your projects. Resources made by and for designers.
 - [Font Awesome](https://fontawesome.com/): Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.
 - [Freepik](https://www.freepik.com/popular-icons): Illustrations, photos, icons, mockups, and presentations templates.
-- [Iconfinder](https://www.iconfinder.com/): Marketplace with millions of free and premium icons, illustrations, and 3D assets. Find icons in SVG, PNG, and icon font formats.
 - [IcoMoon](https://icomoon.io/): Free icon library and icon font generator. Create custom icon fonts from hundreds of vector icons or upload your own SVG files.
+- [Iconfinder](https://www.iconfinder.com/): Marketplace with millions of free and premium icons, illustrations, and 3D assets. Find icons in SVG, PNG, and icon font formats.
 - [Iconmonstr](https://iconmonstr.com/): Free, monstrously big and continuously growing source of simple icons.
 - [Iconsax](https://iconsax.io/): Hello welcome to iconsax the official icons of the Vuesax framework.
 - [Iconshock](https://www.iconshock.com/): The biggest icon pack: 2 million professional icons library.
+- [Lucide](https://lucide.dev/icons/): Lucide is an open-source icon library that provides 1000+ vector files for displaying icons and symbols in digital and non-digital projects.
 - [Material Icons](https://fonts.google.com/icons): Material Icons are available in five styles and a range of downloadable sizes and densities. The icons are based on the core Material Design principles and metrics.
 - [Remix Icon](http://remixicon.com/): Remix Icon is a set of open-source neutral-style system symbols elaborately crafted for designers and developers.
 - [Streamline](https://streamlinehq.com/): 100,000 icons, illustrations and emoji for all your projects.
 - [The Noun Project](https://thenounproject.com/): Over 5 million curated icons and photos representing every concept imaginable. Available in SVG and PNG formats with flexible licensing.
 - [UI8](https://ui8.net/category/icons): Premium marketplace for design resources including thousands of vector icon sets. High-quality assets for mobile, web, and print projects.
-- [Lucide](https://lucide.dev/icons/): Lucide is an open-source icon library that provides 1000+ vector files for displaying icons and symbols in digital and non-digital projects.
 - [VectorElements](https://vectorelements.net/icons/): Download free SVG icons and modern vector icon packs for websites, mobile apps, user interfaces, branding, social media, and marketing projects. VectorElements offers professionally designed icons in AI, EPS, SVG, PNG, JPG, and PDF formats, with premium collections also available.
 
 ## Inspiration
@@ -282,9 +282,9 @@ _Get inspired by the best design work from around the world. Browse award-winnin
 - [Design Inspiration](https://www.designspiration.com/): Designspiration is committed to being the best product that it can.
 - [Dribbble](https://dribbble.com/): Dribbble is the leading destination to find & showcase creative work and home to the world's best design professionals.
 - [Httpster](https://httpster.net/): Httpster is an inspiration resource showcasing totally rocking websites made by people from all over the world.
+- [Land-book](https://land-book.com/): We collect awesome websites to help creatives find inspiration & motivation to do rad stuff.
 - [Landingfolio](https://www.landingfolio.com/): Landingfolio features the best landing page designs on the web. Get inspiration from real landing page examples, curated by us to ensure the highest quality.
 - [Landings](https://landings.dev/): Landings is a place to discover hundreds of landing pages from great companies based on preferences like theme and color.
-- [Land-book](https://land-book.com/): We collect awesome websites to help creatives find inspiration & motivation to do rad stuff.
 - [Lapa Ninja](https://www.lapa.ninja/): Lapa Ninja is a gallery featuring the best 4940 landing page examples, free books for designers and free UI kits from around the web.
 - [Mobbin](https://mobbin.design/): Browse thousands of mobile and web app screenshots organized by flows, screens, and UI elements. Perfect reference library for iOS and Android design patterns.
 - [Muzli](https://muz.li/): Browser extension and website serving daily design inspiration. Curated content from Dribbble, Behance, and top design publications all in one place.
@@ -372,20 +372,20 @@ _Beautiful fonts and typography resources for designers. Explore Google Fonts, d
 
 - [Canva](https://www.canva.com/font-combinations/): Explore curated font pairing combinations for your designs. Browse hundreds of professionally matched typeface pairs with live preview examples.
 - [Font Squirrel](https://www.fontsquirrel.com/): Curated collection of high-quality, commercial-use free fonts. Includes a webfont generator for converting fonts to web-friendly formats.
-- [Fonts Arena](https://fontsarena.com/): FontsArena is a curated typography website with a focus on contemporary typography and high quality free fonts.
-- [Fonts in Use](https://fontsinuse.com/): An independent archive of typography.
 - [FontJoy](https://fontjoy.com/): Generate font combinations with deep learning.
 - [FontPair](https://fontpair.co/): Font Pair is a typography site dedicated to helping creators use beautiful typography for their creative projects.
+- [Fonts Arena](https://fontsarena.com/): FontsArena is a curated typography website with a focus on contemporary typography and high quality free fonts.
+- [Fonts in Use](https://fontsinuse.com/): An independent archive of typography.
+- [FontsWiki](https://fontswiki.com): Free typography hub for designers and developers to browse font pages, preview type, compare alternatives, study pairings, and explore Fonts-in-Use examples from movies, logos, games, and visual culture.
 - [Google Fonts](https://fonts.google.com/): Making the web more beautiful, fast, and open through great typography.
 - [Modular Scale](https://www.modularscale.com/): Build your typographic scale, create the vertical rhythm of your web site.
 - [My Fonts](https://www.myfonts.com/): MyFonts offers the largest selection of professional fonts for any project.
 - [Type Scale](https://type-scale.com/): Visual calculator for creating harmonious typography scales. Preview how different scale ratios affect your type system.
 - [Typewolf](https://www.typewolf.com/): Discover trending typefaces and see how they're used in the wild. Curated font recommendations, site reviews, and typography inspiration.
 - [Typewonder](http://typewonder.com/): Helps you to test web fonts on any web site on the fly!
-- [Typographica](https://typographica.org/): In-depth typeface reviews, book reviews, and commentary on typography. Essential reading for type enthusiasts and designers.
 - [Typographic Posters](https://www.typographicposters.com/): Typographic Posters is a platform for inspiration and promotion of good design through the poster culture.
+- [Typographica](https://typographica.org/): In-depth typeface reviews, book reviews, and commentary on typography. Essential reading for type enthusiasts and designers.
 - [Typography in Ten Minutes](https://practicaltypography.com/typography-in-ten-minutes.html): If you learn and follow these five typography rules, you will be a better typographer than nearly every writer—and even most graphic designers.
-- [FontsWiki](https://fontswiki.com): Free typography hub for designers and developers to browse font pages, preview type, compare alternatives, study pairings, and explore Fonts-in-Use examples from movies, logos, games, and visual culture.
 
 ## UI Animation
 
@@ -413,8 +413,8 @@ _Best UI design tools and resources. Create beautiful user interfaces with Figma
 _UX design tools and user research resources. Learn about user testing, journey mapping, wireframing, and creating user-centered designs. Essential resources for understanding user behavior and designing better experiences. Build products users love._
 
 - [Filters vs. Facets: Definitions](https://www.nngroup.com/articles/filters-vs-facets/): The terms “filters” and “faceted navigation” are often used interchangeably; although related, these concepts have important differences.
-- [Task Analysis: Support Users in Achieving Their Goals](https://www.nngroup.com/articles/task-analysis/): Task analysis is the systematic study of how users complete tasks to achieve their goals.
 - [Inspo AI](https://inspoai.io/): Inspo AI is an open-source design platform for UI/UX designers, developers and product teams. Discover real web and mobile UI inspiration, organize ideas into moodboards, generate interfaces and user flows with AI, and export designs to Figma. Its Brand DNA Scanner can also analyze any website to uncover brand colors, typography, visual assets, brand identity and tech stack, bringing design research and UI creation into one workspace.
+- [Task Analysis: Support Users in Achieving Their Goals](https://www.nngroup.com/articles/task-analysis/): Task analysis is the systematic study of how users complete tasks to achieve their goals.
 
 ## Wireframing
 

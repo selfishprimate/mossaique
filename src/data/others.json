@@ -9,6 +9,7 @@
       "link": "https://10015.io/",
       "description": "10015.io is a “free all-in-one toolbox” solution created to ease your life by preventing bookmark mess.",
       "globalIndex": 287,
+      "addedAt": "2022-03-07",
       "pricing": "free"
     },
     {
@@ -16,6 +17,7 @@
       "link": "https://www.adjust.com/",
       "description": "Adjust is the mobile marketing platform for marketers around the world wanting to grow their app.",
       "globalIndex": 288,
+      "addedAt": "2022-03-28",
       "pricing": "paid"
     },
     {
@@ -23,6 +25,7 @@
       "link": "https://express.adobe.com/",
       "description": "Quick and easy design tool for creating social media graphics, videos, web pages, and more. Thousands of templates and Adobe Stock assets at your fingertips.",
       "globalIndex": 289,
+      "addedAt": "2022-05-02",
       "pricing": "freemium"
     },
     {
@@ -30,6 +33,7 @@
       "link": "https://www.appsflyer.com/",
       "description": "The world’s top marketing and product teams turn to AppsFlyer to power predictable app growth, protect customer privacy, and deliver exceptional mobile experiences.",
       "globalIndex": 290,
+      "addedAt": "2022-03-28",
       "pricing": "paid"
     },
     {
@@ -37,6 +41,7 @@
       "link": "https://avocode.com/",
       "description": "Design handoff tool that converts designs to code. Export CSS, Swift, and Android XML from Sketch, Figma, and Adobe XD files automatically.",
       "globalIndex": 291,
+      "addedAt": "2022-05-22",
       "pricing": "paid"
     },
     {
@@ -44,6 +49,7 @@
       "link": "https://components.ai/",
       "description": "Visual editors for HTML, CSS, and SVG. Customize, curate, and publish designs faster than ever.",
       "globalIndex": 292,
+      "addedAt": "2022-03-31",
       "pricing": "freemium"
     },
     {
@@ -51,6 +57,7 @@
       "link": "https://designsprintkit.withgoogle.com/",
       "description": "Transform the way your team works.",
       "globalIndex": 293,
+      "addedAt": "2022-02-10",
       "pricing": "free"
     },
     {
@@ -58,6 +65,7 @@
       "link": "https://www.ethicaldesignresources.com/",
       "description": "Practical resources to learn about design ethics and its methodologies.",
       "globalIndex": 294,
+      "addedAt": "2022-05-28",
       "pricing": "free"
     },
     {
@@ -65,6 +73,7 @@
       "link": "https://www.hotjar.com/",
       "description": "Understand how users behave on your site, what they need, and how they feel, fast.",
       "globalIndex": 295,
+      "addedAt": "2022-03-28",
       "pricing": "freemium"
     },
     {
@@ -72,6 +81,7 @@
       "link": "https://loremipsum.io/",
       "description": "Generate placeholder text for your designs and mockups. Includes classic Lorem Ipsum and alternative filler text options in various languages.",
       "globalIndex": 296,
+      "addedAt": "2020-09-22",
       "pricing": "free"
     },
     {
@@ -79,6 +89,7 @@
       "link": "https://mediaqueri.es/",
       "description": "A handy tool that helps designers examine the responsiveness of a variety of web sites.",
       "globalIndex": 297,
+      "addedAt": "2020-09-23",
       "pricing": "free"
     },
     {
@@ -86,6 +97,7 @@
       "link": "https://pattern.monster/",
       "description": "Customizable SVG patterns for your projects.",
       "globalIndex": 298,
+      "addedAt": "2022-01-14",
       "pricing": "free"
     },
     {
@@ -93,6 +105,7 @@
       "link": "https://pair.withgoogle.com/",
       "description": "People + AI Research (PAIR) is a multidisciplinary team at Google that explores the human side of AI by doing fundamental research, building tools, creating design frameworks, and working with diverse communities.",
       "globalIndex": 299,
+      "addedAt": "2022-02-10",
       "pricing": "free"
     },
     {
@@ -100,6 +113,7 @@
       "link": "https://pitch.com/",
       "description": "Modern collaborative presentation software with beautiful templates. Create, edit, and present together in real-time with your team.",
       "globalIndex": 300,
+      "addedAt": "2021-04-24",
       "pricing": "freemium"
     },
     {
@@ -107,6 +121,7 @@
       "link": "https://pixcleaner.com/",
       "description": "Free background remover and image converter JPEG or PNG to Webp.",
       "globalIndex": 301,
+      "addedAt": "2022-11-14",
       "pricing": "free"
     },
     {
@@ -114,6 +129,7 @@
       "link": "https://proapp.design/",
       "description": "Courses curated by creators with industry experience & passion for design.",
       "globalIndex": 302,
+      "addedAt": "2022-01-14",
       "pricing": "paid"
     },
     {
@@ -121,6 +137,7 @@
       "link": "https://matthewpalmer.net/rocket/",
       "description": "Rocket is a free Mac app that makes typing emoji faster and easier using Slack-style shortcuts.",
       "globalIndex": 303,
+      "addedAt": "2022-06-06",
       "pricing": "free"
     },
     {
@@ -128,6 +145,7 @@
       "link": "https://sharpen.design/",
       "description": "Sharpen is a free design challenge generator used by tens of thousands of designers and educators worldwide to practice and teach graphic design, UX, branding, and more.",
       "globalIndex": 304,
+      "addedAt": "2022-05-21",
       "pricing": "free"
     },
     {
@@ -135,6 +153,7 @@
       "link": "https://www.speakhuman.today/",
       "description": "Generate human centric microcopy for all purposes.",
       "globalIndex": 305,
+      "addedAt": "2020-09-22",
       "pricing": "free"
     },
     {
@@ -142,6 +161,7 @@
       "link": "https://www.tiltbrush.com/",
       "description": "Tilt Brush lets you paint in 3D space with virtual reality.",
       "globalIndex": 306,
+      "addedAt": "2022-02-10",
       "pricing": "free"
     },
     {
@@ -149,6 +169,7 @@
       "link": "https://usethekeyboard.com/",
       "description": "A collection of keyboard shortcuts for Mac apps, Windows programs, and websites.",
       "globalIndex": 307,
+      "addedAt": "2022-09-02",
       "pricing": "free"
     },
     {
@@ -156,6 +177,7 @@
       "link": "https://uxtools.co/",
       "description": "We make several free tools and projects for product designers.",
       "globalIndex": 308,
+      "addedAt": "2022-05-21",
       "pricing": "free"
     },
     {
@@ -163,6 +185,7 @@
       "link": "https://www.webdesignmuseum.org/",
       "description": "Web Design Museum exhibits over 2,000 carefully selected and sorted web sites that show web design trends between the years 1991 and 2006.",
       "globalIndex": 309,
+      "addedAt": "2022-08-27",
       "pricing": null
     },
     {
@@ -170,6 +193,7 @@
       "link": "https://zeplin.io/",
       "description": "Organize screens. Publish locked designs. Scale design systems. All in a workspace friendly to the entire team, including non-designers.",
       "globalIndex": 310,
+      "addedAt": "2022-05-23",
       "pricing": "freemium"
     }
   ]

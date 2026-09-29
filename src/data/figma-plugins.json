@@ -9,6 +9,7 @@
       "link": "https://www.figma.com/community/plugin/733159460536249875/A11y---Color-Contrast-Checker",
       "description": "Ensure your text is readable for users by adhering to WCAG (Web Content Accessibility Guidelines) standards.",
       "globalIndex": 125,
+      "addedAt": "2022-06-08",
       "pricing": "free"
     },
     {
@@ -16,6 +17,7 @@
       "link": "https://www.figma.com/community/plugin/733343906244951586/Color-Blind",
       "description": "Color Blind allows you to view your designs in the 8 different types of color vision deficiencies.",
       "globalIndex": 126,
+      "addedAt": "2022-06-08",
       "pricing": "free"
     },
     {
@@ -23,6 +25,7 @@
       "link": "https://www.figma.com/community/plugin/739475857305927370/Color-Designer",
       "description": "The plugin generates shades, tints, and color harmonies based on select layers or local styles. You can also create a stepped gradient between two colors.",
       "globalIndex": 127,
+      "addedAt": "2022-06-08",
       "pricing": "free"
     },
     {
@@ -30,6 +33,7 @@
       "link": "https://www.figma.com/community/plugin/735098390272716381/Iconify",
       "description": "Import Material Design Icons, FontAwesome, Jam Icons, EmojiOne, Twitter Emoji and many other icons (more than 100 icon sets containing over 100,000 icons) to Figma document as vector shapes.",
       "globalIndex": 128,
+      "addedAt": "2022-06-08",
       "pricing": "free"
     },
     {
@@ -37,6 +41,7 @@
       "link": "https://www.figma.com/community/plugin/731841207668879837/Image-Palette",
       "description": "Extracts a colour palette of 5 different colours from the selected images.",
       "globalIndex": 129,
+      "addedAt": "2022-06-08",
       "pricing": "free"
     },
     {
@@ -44,6 +49,7 @@
       "link": "https://www.figma.com/community/plugin/799646392992487942",
       "description": "Insert and retain the original resolution of big images.",
       "globalIndex": 130,
+      "addedAt": "2022-06-23",
       "pricing": "free"
     },
     {
@@ -51,6 +57,7 @@
       "link": "https://www.figma.com/community/plugin/831003768229656707/Layout-Grid-Visualizer",
       "description": "Generate layers from your layout grids so you can export images or prepare diagrams to supplement your design systems documentation.",
       "globalIndex": 131,
+      "addedAt": "2022-06-08",
       "pricing": "free"
     },
     {
@@ -58,6 +65,7 @@
       "link": "https://www.figma.com/community/plugin/740272380439725040/Material-Design-Icons",
       "description": "Instant easy access to the entire Material Design Icons library. 35,000+ icons in PNG and SVG at your fingertips.",
       "globalIndex": 132,
+      "addedAt": "2022-06-08",
       "pricing": "free"
     },
     {
@@ -65,6 +73,7 @@
       "link": "https://www.figma.com/community/plugin/1671982756700161071",
       "description": "Turn HTML, static sites and React, Next.js, Vue or Svelte projects into editable Figma layers, with text, styles, spacing and vector assets retained.",
       "globalIndex": 133,
+      "addedAt": "2026-08-26",
       "pricing": null
     },
     {
@@ -72,6 +81,7 @@
       "link": "https://www.figma.com/community/plugin/820660579767995949/Styler",
       "description": "Styler unlocks the ability to manage multiple styles at once by using modifying the layer properties.",
       "globalIndex": 134,
+      "addedAt": "2022-06-08",
       "pricing": "free"
     },
     {
@@ -79,6 +89,7 @@
       "link": "https://www.figma.com/community/plugin/769664006254845172/UI-Faces",
       "description": "UI Faces aggregates thousands of avatars which you can carefully filter to create your perfect personas or just generate random avatars.",
       "globalIndex": 135,
+      "addedAt": "2022-06-08",
       "pricing": "free"
     },
     {
@@ -86,6 +97,7 @@
       "link": "https://www.figma.com/community/plugin/738454987945972471/Unsplash",
       "description": "Insert beautiful images from Unsplash straight into your designs.",
       "globalIndex": 136,
+      "addedAt": "2022-06-08",
       "pricing": "free"
     }
   ]

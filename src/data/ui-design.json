@@ -9,6 +9,7 @@
       "link": "https://www.adobe.com/products/xd.html",
       "description": "Lifelike in every sense. Create stunningly real UI/UX designs and stand out from the rest.",
       "globalIndex": 274,
+      "addedAt": "2022-01-13",
       "pricing": "freemium"
     },
     {
@@ -16,6 +17,7 @@
       "link": "https://www.figma.com/ui-design-tool/",
       "description": "Browser-based collaborative design tool for creating interfaces, prototypes, and design systems. Real-time collaboration, powerful auto-layout, and extensive plugin ecosystem.",
       "globalIndex": 275,
+      "addedAt": "2022-01-13",
       "pricing": "freemium"
     },
     {
@@ -23,6 +25,7 @@
       "link": "https://www.framer.com/",
       "description": "Interactive design and prototyping tool with real React components. Create production-ready prototypes with advanced animations, interactions, and responsive layouts.",
       "globalIndex": 276,
+      "addedAt": "2022-01-13",
       "pricing": "freemium"
     },
     {
@@ -30,6 +33,7 @@
       "link": "https://maze.co/",
       "description": "Rapid user testing and research platform. Test prototypes, run surveys, conduct interviews, and gather actionable insights before building your product.",
       "globalIndex": 277,
+      "addedAt": "2022-01-13",
       "pricing": "freemium"
     },
     {
@@ -37,6 +41,7 @@
       "link": "https://origami.design/",
       "description": "Design, animate, and prototype. All-in-one.",
       "globalIndex": 278,
+      "addedAt": "2022-01-04",
       "pricing": "free"
     },
     {
@@ -44,6 +49,7 @@
       "link": "https://www.sketch.com/",
       "description": "Vector-based design tool for Mac with powerful symbols, styles, and plugins. Industry-standard for UI/UX design with collaborative cloud features.",
       "globalIndex": 279,
+      "addedAt": "2022-01-13",
       "pricing": "paid"
     }
   ]

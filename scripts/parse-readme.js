@@ -15,6 +15,20 @@ try {
   console.warn('⚠️  Could not load pricing.json, continuing without pricing data');
 }
 
+// Load the date each resource was first added. "Most Recent" sorting reads this,
+// so it reflects when a resource appeared rather than where it sits in README.md.
+const addedDatesPath = path.join(__dirname, '..', 'src', 'data', 'added-dates.json');
+let addedDatesFile = { comment: '', added: {} };
+try {
+  addedDatesFile = JSON.parse(fs.readFileSync(addedDatesPath, 'utf-8'));
+  addedDatesFile.added = addedDatesFile.added || {};
+} catch {
+  console.warn('⚠️  Could not load added-dates.json, starting a fresh one');
+  addedDatesFile = { comment: '', added: {} };
+}
+const today = new Date().toISOString().slice(0, 10);
+let newlyStamped = 0;
+
 // Icon mapping based on category names
 const iconMap = {
   'accessibility': 'Eye',
@@ -91,11 +105,19 @@ function parseReadme() {
         .replace(/[^a-z0-9]+/g, '-')
         .replace(/^-+|-+$/g, '');
 
+      // A link we have never parsed before is new today; the stamp is then kept
+      // forever in added-dates.json, which the workflow commits alongside the JSON.
+      if (!addedDatesFile.added[link]) {
+        addedDatesFile.added[link] = today;
+        newlyStamped++;
+      }
+
       resources.push({
         title,
         link,
         description: match[3].trim(),
         globalIndex: globalResourceIndex++,
+        addedAt: addedDatesFile.added[link],
         pricing: pricingData[slug] || null
       });
     }
@@ -140,6 +162,19 @@ function parseReadme() {
   const indexPath = path.join(__dirname, '..', 'src', 'data', 'categories-index.json');
   fs.writeFileSync(indexPath, JSON.stringify(categoriesIndex, null, 2), 'utf-8');
   console.log(`\n✓ Generated categories-index.json (${categories.length} categories)`);
+
+  // Persist any newly stamped dates, keeping the file sorted oldest first
+  const sortedDates = Object.fromEntries(
+    Object.entries(addedDatesFile.added).sort((a, b) => a[1].localeCompare(b[1]) || a[0].localeCompare(b[0]))
+  );
+  fs.writeFileSync(
+    addedDatesPath,
+    JSON.stringify({ comment: addedDatesFile.comment, added: sortedDates }, null, 2) + '\n',
+    'utf-8'
+  );
+  if (newlyStamped > 0) {
+    console.log(`\n✓ Stamped ${newlyStamped} new resource(s) with today's date (${today})`);
+  }
 
   console.log('\n✅ README.md successfully parsed!');
   console.log(`   Total categories: ${categories.length}`);
