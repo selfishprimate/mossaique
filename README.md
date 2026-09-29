@@ -414,6 +414,7 @@ _UX design tools and user research resources. Learn about user testing, journey 
 
 - [Filters vs. Facets: Definitions](https://www.nngroup.com/articles/filters-vs-facets/): The terms “filters” and “faceted navigation” are often used interchangeably; although related, these concepts have important differences.
 - [Task Analysis: Support Users in Achieving Their Goals](https://www.nngroup.com/articles/task-analysis/): Task analysis is the systematic study of how users complete tasks to achieve their goals.
+- [Inspo AI](https://inspoai.io/): Inspo AI is an open-source design platform for UI/UX designers, developers and product teams. Discover real web and mobile UI inspiration, organize ideas into moodboards, generate interfaces and user flows with AI, and export designs to Figma. Its Brand DNA Scanner can also analyze any website to uncover brand colors, typography, visual assets, brand identity and tech stack, bringing design research and UI creation into one workspace.
 
 ## Wireframing
 
