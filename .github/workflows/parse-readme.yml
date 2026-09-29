@@ -6,11 +6,11 @@ on:
       - main
     paths:
       - 'README.md'
+  # No paths filter: validate is a required status check, so it must report on
+  # every pull request. A required check that never runs blocks merging forever.
   pull_request:
     branches:
       - main
-    paths:
-      - 'README.md'
 
 # Serialise every workflow that auto-commits to main so two runs never race
 # each other's push (that race is what produced "! [rejected] (fetch first)").
