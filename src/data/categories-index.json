@@ -74,7 +74,7 @@
     "title": "Graphic Design",
     "description": "Professional graphic design resources and inspiration. Discover tools, templates, and inspiration for logo design, branding, print design, and visual communication. Explore galleries showcasing the work of talented graphic designers worldwide.",
     "icon": "PenTool",
-    "resourceCount": 3
+    "resourceCount": 4
   },
   {
     "id": "icons",
@@ -158,7 +158,7 @@
     "title": "UX Design",
     "description": "UX design tools and user research resources. Learn about user testing, journey mapping, wireframing, and creating user-centered designs. Essential resources for understanding user behavior and designing better experiences. Build products users love.",
     "icon": "Users",
-    "resourceCount": 2
+    "resourceCount": 3
   },
   {
     "id": "wireframing",

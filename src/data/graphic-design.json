@@ -19,6 +19,13 @@
       "pricing": "free"
     },
     {
+      "title": "Kanyon Image Studio",
+      "link": "https://kanyonw.com/image-compressor",
+      "description": "Free browser-based image preparation for designers: compress, resize/crop, convert HEIC to JPG, export JPG/PNG/WebP and clean personal metadata from JPG/PNG. Up to 50 photos per batch, with previews, a built-in sample and ZIP downloads (50 MB/image, 200 MB/batch, 60 outputs/run). No signup or image uploads; image processing stays on-device. Site analytics and HEIC/ZIP libraries may load online. Built and submitted by Kanyon Studio.",
+      "globalIndex": 173,
+      "pricing": null
+    },
+    {
       "title": "Women of Graphic Design",
       "link": "https://womenofgraphicdesign.org/",
       "description": "A project focused on exhibiting the contributions of women in graphic design and exploring issues of gender-equality in education provided by design institutions.",
