@@ -117,18 +117,10 @@
       "pricing": "free"
     },
     {
-      "title": "Slant",
-      "link": "https://www.producthunt.com/",
-      "description": "Trustworthy product rankings for all your shopping needs.",
-      "globalIndex": 105,
-      "addedAt": "2020-09-23",
-      "pricing": "free"
-    },
-    {
       "title": "Steemhunt",
       "link": "https://steemhunt.com/",
       "description": "Community-driven product discovery platform where you can hunt and upvote cool new products. Earn cryptocurrency rewards for contributing quality finds.",
-      "globalIndex": 106,
+      "globalIndex": 105,
       "addedAt": "2020-09-23",
       "pricing": null
     },
@@ -136,7 +128,7 @@
       "title": "The UX Collective",
       "link": "https://uxdesign.cc/",
       "description": "Curated stories on UX, Visual & Product Design.",
-      "globalIndex": 107,
+      "globalIndex": 106,
       "addedAt": "2020-09-23",
       "pricing": "free"
     },
@@ -144,7 +136,7 @@
       "title": "UsTwo",
       "link": "https://www.ustwo.com/blog/",
       "description": "Insights and stories from the award-winning digital product studio behind Monument Valley. Articles on design, technology, and creating impactful products.",
-      "globalIndex": 108,
+      "globalIndex": 107,
       "addedAt": "2020-09-23",
       "pricing": "free"
     },
@@ -152,7 +144,7 @@
       "title": "UX Movement",
       "link": "https://uxmovement.com/",
       "description": "When an app, website, or interface is difficult to use, it’s not the user’s fault, but the designer’s for making it unusable.",
-      "globalIndex": 109,
+      "globalIndex": 108,
       "addedAt": "2020-09-23",
       "pricing": "free"
     },
@@ -160,7 +152,7 @@
       "title": "Web Designer News",
       "link": "https://www.webdesignernews.com/",
       "description": "We built WebdesignerNews.com to provide web designers and developers with a single location to discover the latest and most significant stories on the Web.",
-      "globalIndex": 110,
+      "globalIndex": 109,
       "addedAt": "2020-09-23",
       "pricing": "free"
     }

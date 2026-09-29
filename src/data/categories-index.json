@@ -46,7 +46,7 @@
     "title": "Design News",
     "description": "Stay updated with the latest design news and trends. Daily updates on design tools, industry news, new products, and design community highlights from Product Hunt, Designer News, and leading design teams at Airbnb, Google, and Microsoft.",
     "icon": "Newspaper",
-    "resourceCount": 20
+    "resourceCount": 19
   },
   {
     "id": "design-systems",
@@ -109,7 +109,7 @@
     "title": "Prototyping",
     "description": "Best prototyping tools for interactive design. Create high-fidelity prototypes with Figma, Marvel, and Framer. Test user flows and validate designs before development. Essential tools for rapid prototyping and user testing.",
     "icon": "Layers",
-    "resourceCount": 15
+    "resourceCount": 14
   },
   {
     "id": "stock-photos",

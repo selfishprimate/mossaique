@@ -8,7 +8,7 @@
       "title": "Airtable",
       "link": "https://www.airtable.com",
       "description": "Accelerate work and unlock potential with powerful apps that connect your data, workflows and teams.",
-      "globalIndex": 137,
+      "globalIndex": 136,
       "addedAt": "2022-04-02",
       "pricing": "freemium"
     },
@@ -16,7 +16,7 @@
       "title": "AngularJS",
       "link": "https://angularjs.org/",
       "description": "AngularJS lets you extend HTML vocabulary for your application.",
-      "globalIndex": 138,
+      "globalIndex": 137,
       "addedAt": "2022-02-10",
       "pricing": "free"
     },
@@ -24,7 +24,7 @@
       "title": "Bootstrap",
       "link": "https://getbootstrap.com/",
       "description": "Most popular HTML, CSS, and JavaScript framework for responsive web development. Comprehensive component library and grid system for rapid prototyping.",
-      "globalIndex": 139,
+      "globalIndex": 138,
       "addedAt": "2022-02-09",
       "pricing": "free"
     },
@@ -32,7 +32,7 @@
       "title": "Codepen",
       "link": "https://codepen.io/",
       "description": "CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.",
-      "globalIndex": 140,
+      "globalIndex": 139,
       "addedAt": "2022-02-17",
       "pricing": "freemium"
     },
@@ -40,7 +40,7 @@
       "title": "Codrops",
       "link": "https://tympanus.net/codrops/",
       "description": "Stay up to date with the latest web design and development news and relevant updates from Codrops.",
-      "globalIndex": 141,
+      "globalIndex": 140,
       "addedAt": "2022-03-03",
       "pricing": "free"
     },
@@ -48,7 +48,7 @@
       "title": "Coolify",
       "link": "https://coolify.io/",
       "description": "An open-source & self-hostable alternative to Vercel, Heroku, Netlify and Railway for easily deploying websites, databases, web applications and 280+ one-click services to your own server.",
-      "globalIndex": 142,
+      "globalIndex": 141,
       "addedAt": "2025-11-05",
       "pricing": "free"
     },
@@ -56,7 +56,7 @@
       "title": "CSS: Cascading Style Sheets",
       "link": "https://developer.mozilla.org/en-US/docs/Web/CSS",
       "description": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML).",
-      "globalIndex": 143,
+      "globalIndex": 142,
       "addedAt": "2022-02-25",
       "pricing": "free"
     },
@@ -64,7 +64,7 @@
       "title": "Eleventy",
       "link": "https://www.11ty.dev/",
       "description": "Eleventy, a simpler static site generator. It was created to be a JavaScript alternative to Jekyll. It’s zero-config by default but has flexible configuration options.",
-      "globalIndex": 144,
+      "globalIndex": 143,
       "addedAt": "2022-02-21",
       "pricing": "free"
     },
@@ -72,7 +72,7 @@
       "title": "Foundation",
       "link": "https://get.foundation/",
       "description": "The most advanced responsive front-end framework in the world.",
-      "globalIndex": 145,
+      "globalIndex": 144,
       "addedAt": "2022-02-10",
       "pricing": "free"
     },
@@ -80,7 +80,7 @@
       "title": "Gerillass",
       "link": "https://gerillass.com/",
       "description": "Gerillass is a website development tool built on top of Sass with a set of Sass mixins and functions for frontend developers to generate scalable CSS outputs.",
-      "globalIndex": 146,
+      "globalIndex": 145,
       "addedAt": "2022-02-09",
       "pricing": "free"
     },
@@ -88,7 +88,7 @@
       "title": "Git",
       "link": "https://git-scm.com/",
       "description": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.",
-      "globalIndex": 147,
+      "globalIndex": 146,
       "addedAt": "2022-02-10",
       "pricing": "free"
     },
@@ -96,7 +96,7 @@
       "title": "Github",
       "link": "https://github.com",
       "description": "The world's largest code hosting platform for version control and collaboration. Share code, collaborate on projects, and discover open-source resources.",
-      "globalIndex": 148,
+      "globalIndex": 147,
       "addedAt": "2022-02-10",
       "pricing": "freemium"
     },
@@ -104,7 +104,7 @@
       "title": "Grunt",
       "link": "https://gruntjs.com/",
       "description": "JavaScript task runner for automating repetitive development tasks. Minify files, run tests, compile Sass, and more with a vast plugin ecosystem.",
-      "globalIndex": 149,
+      "globalIndex": 148,
       "addedAt": "2022-03-19",
       "pricing": null
     },
@@ -112,7 +112,7 @@
       "title": "Gulp",
       "link": "https://gulpjs.com/",
       "description": "Streaming build system and task runner for automating frontend workflows. Faster than Grunt with code-over-configuration approach using Node streams.",
-      "globalIndex": 150,
+      "globalIndex": 149,
       "addedAt": "2022-02-10",
       "pricing": null
     },
@@ -120,7 +120,7 @@
       "title": "HorizonX",
       "link": "https://horizonx.so/",
       "description": "A premium UI and production-ready code library for vibe coders, product designers, and frontend developers. HorizonX pairs editable Figma systems with React, Tailwind, HTML, and prompt-based assets so teams can start from a crafted visual foundation, preserve reusable components and design tokens, and adapt the result in Cursor, Lovable, v0, or their own codebase.",
-      "globalIndex": 151,
+      "globalIndex": 150,
       "addedAt": "2026-08-11",
       "pricing": null
     },
@@ -128,7 +128,7 @@
       "title": "HTML5 Boilerplate",
       "link": "https://html5boilerplate.com/",
       "description": "The web’s most popular front-end template.",
-      "globalIndex": 152,
+      "globalIndex": 151,
       "addedAt": "2022-02-10",
       "pricing": "free"
     },
@@ -136,7 +136,7 @@
       "title": "Hugo",
       "link": "https://gohugo.io/",
       "description": "The world’s fastest framework for building websites.",
-      "globalIndex": 153,
+      "globalIndex": 152,
       "addedAt": "2022-02-10",
       "pricing": null
     },
@@ -144,7 +144,7 @@
       "title": "Ionic",
       "link": "https://ionic.io/",
       "description": "Build faster, smarter, and into the future.",
-      "globalIndex": 154,
+      "globalIndex": 153,
       "addedAt": "2022-03-19",
       "pricing": "freemium"
     },
@@ -152,7 +152,7 @@
       "title": "Jekyll",
       "link": "https://jekyllrb.com/",
       "description": "Transform your plain text into static websites and blogs. No more databases, comment moderation, or pesky updates to install—just your content.",
-      "globalIndex": 155,
+      "globalIndex": 154,
       "addedAt": "2022-02-17",
       "pricing": "free"
     },
@@ -160,7 +160,7 @@
       "title": "Markdown Guide",
       "link": "https://www.markdownguide.org/",
       "description": "The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.",
-      "globalIndex": 156,
+      "globalIndex": 155,
       "addedAt": "2022-02-25",
       "pricing": "free"
     },
@@ -168,7 +168,7 @@
       "title": "Markup Validation Service",
       "link": "https://validator.w3.org/",
       "description": "This validator checks the markup validity of Web documents in HTML, XHTML, SMIL, MathML, etc.",
-      "globalIndex": 157,
+      "globalIndex": 156,
       "addedAt": "2022-02-17",
       "pricing": "free"
     },
@@ -176,7 +176,7 @@
       "title": "Material Design Lite",
       "link": "https://getmdl.io/",
       "description": "Material Design Lite lets you add a Material Design look and feel to your websites.",
-      "globalIndex": 158,
+      "globalIndex": 157,
       "addedAt": "2022-02-10",
       "pricing": "free"
     },
@@ -184,7 +184,7 @@
       "title": "Modaal",
       "link": "https://humaan.com/modaal/",
       "description": "An accessible dialog window plugin for all humans.",
-      "globalIndex": 159,
+      "globalIndex": 158,
       "addedAt": "2022-02-10",
       "pricing": "free"
     },
@@ -192,7 +192,7 @@
       "title": "Node.js",
       "link": "https://nodejs.org/en/",
       "description": "Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.",
-      "globalIndex": 160,
+      "globalIndex": 159,
       "addedAt": "2022-02-10",
       "pricing": "free"
     },
@@ -200,7 +200,7 @@
       "title": "Parcel",
       "link": "https://parceljs.org/",
       "description": "Parcel combines a great out-of-the-box development experience with a scalable architecture that can take your project from just getting started to massive production application.",
-      "globalIndex": 161,
+      "globalIndex": 160,
       "addedAt": "2022-03-03",
       "pricing": "free"
     },
@@ -208,7 +208,7 @@
       "title": "React",
       "link": "https://reactjs.org/",
       "description": "Popular JavaScript library by Meta for building user interfaces with reusable components. Declarative, efficient, and flexible with a massive ecosystem.",
-      "globalIndex": 162,
+      "globalIndex": 161,
       "addedAt": "2022-02-10",
       "pricing": "free"
     },
@@ -216,7 +216,7 @@
       "title": "Sass",
       "link": "https://sass-lang.com/",
       "description": "Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.",
-      "globalIndex": 163,
+      "globalIndex": 162,
       "addedAt": "2022-02-10",
       "pricing": "free"
     },
@@ -224,7 +224,7 @@
       "title": "Storybook",
       "link": "https://storybook.js.org/",
       "description": "Storybook is an open source tool for building UI components and pages in isolation. It streamlines UI development, testing, and documentation.",
-      "globalIndex": 164,
+      "globalIndex": 163,
       "addedAt": "2022-03-08",
       "pricing": "free"
     },
@@ -232,7 +232,7 @@
       "title": "Tailwind CSS",
       "link": "https://tailwindcss.com/",
       "description": "Rapidly build modern websites without ever leaving your HTML.",
-      "globalIndex": 165,
+      "globalIndex": 164,
       "addedAt": "2022-02-09",
       "pricing": "free"
     },
@@ -240,7 +240,7 @@
       "title": "Typeform",
       "link": "https://www.typeform.com/",
       "description": "You don't want to make a boring form. And your audience won't answer one. Create a typeform instead—and make everyone happy.",
-      "globalIndex": 166,
+      "globalIndex": 165,
       "addedAt": "2022-03-17",
       "pricing": "freemium"
     },
@@ -248,7 +248,7 @@
       "title": "TypeScript",
       "link": "https://www.typescriptlang.org/",
       "description": "TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.",
-      "globalIndex": 167,
+      "globalIndex": 166,
       "addedAt": "2022-03-19",
       "pricing": "free"
     },
@@ -256,7 +256,7 @@
       "title": "Visual Studio Code",
       "link": "https://code.visualstudio.com/",
       "description": "Free, open-source code editor from Microsoft with IntelliSense, debugging, Git integration, and thousands of extensions. Supports virtually every programming language.",
-      "globalIndex": 168,
+      "globalIndex": 167,
       "addedAt": "2022-02-10",
       "pricing": "free"
     },
@@ -264,7 +264,7 @@
       "title": "Vue.js",
       "link": "https://vuejs.org/",
       "description": "An approachable, performant and versatile framework for building web user interfaces.",
-      "globalIndex": 169,
+      "globalIndex": 168,
       "addedAt": "2022-02-13",
       "pricing": "free"
     }

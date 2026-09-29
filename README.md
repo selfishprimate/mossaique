@@ -157,7 +157,6 @@ _Stay updated with the latest design news and trends. Daily updates on design to
 - [Product Hunt](https://www.producthunt.com/): Product Hunt surfaces the best new products, every day.
 - [Shaping Design](https://www.editorx.com/shaping-design): Operating at the intersection of design and technology, we cover a wide range of creative fields, predominantly web design and UX.
 - [Sidebar](https://sidebar.io/): Sidebar has been collecting the best design links of the day since October 2012.
-- [Slant](https://www.producthunt.com/): Trustworthy product rankings for all your shopping needs.
 - [Steemhunt](https://steemhunt.com/): Community-driven product discovery platform where you can hunt and upvote cool new products. Earn cryptocurrency rewards for contributing quality finds.
 - [The UX Collective](https://uxdesign.cc/): Curated stories on UX, Visual & Product Design.
 - [UsTwo](https://www.ustwo.com/blog/): Insights and stories from the award-winning digital product studio behind Monument Valley. Articles on design, technology, and creating impactful products.
@@ -338,7 +337,6 @@ _Best prototyping tools for interactive design. Create high-fidelity prototypes 
 - [Proto.io](https://proto.io/): Create fully interactive, high-fidelity prototypes for mobile, desktop, and web. Add complex animations, transitions, and user flows without coding.
 - [UXPin](https://www.uxpin.com/): Design and manage your entire UX/UI project in one tool.
 - [Visily](https://www.visily.ai): The simplest collaborative UI design software with an intuitive interface, rich UI library, and AI features.
-- [Wireframe](https://www.uxpin.com/): UXPin's wireframing mode for creating low-fidelity layouts quickly. Focus on structure and flow before visual design.
 
 ## Stock Photos
 
