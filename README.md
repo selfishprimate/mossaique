@@ -295,6 +295,7 @@ _Get inspired by the best design work from around the world. Browse award-winnin
 - [UI Garage](https://uigarage.net/): Extensive collection of UI design inspiration and patterns organized by category. Search specific UI elements like forms, navigation, or cards.
 - [Webdesign Inspiration](https://www.webdesign-inspiration.com/): Browse thousands of websites organized by category, style, and subject. Daily updated collection of web design inspiration.
 - [Webflow Showcases](https://webflow.com/discover/): Discover the best web design ideas from Webflow users.
+- [Deslove](https://deslove.com/): A free platform for designers to publish work, build a portfolio, share thoughts, collect useful resources and connect with other creators. Available in English and Ukrainian.
 
 ## Mockup
 
