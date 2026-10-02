@@ -59,6 +59,7 @@ _Explore cutting-edge AI tools for designers and developers. From ChatGPT and Cl
 - [Stable Diffusion](https://stability.ai/): Open-source AI model for generating detailed images from text descriptions. *Stability AI*
 - [Synthesia](https://www.synthesia.io/): Create AI videos with avatars and voiceovers in minutes. No cameras, microphones, or actors needed. *Synthesia*
 - [v0](https://v0.dev/): Generate UI components with AI. Create React components from text descriptions. *Vercel*
+- [Photo Tea](https://www.phototea.art/): Browser-based AI photo editor for applying text instructions, making selective edits and comparing results with the source. Useful for preparing product and portfolio images, with free credits and paid options. Product-affiliated submission; AI-edited lettering, faces and product details need review before publication.
 
 ## Articles
 
