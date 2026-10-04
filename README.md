@@ -318,6 +318,7 @@ _Productivity tools to streamline your design workflow. Collaborate better with 
 - [Slack](https://slack.com/): Transform the way you work with one place for everyone and everything you need to get stuff done.
 - [Taskade](https://www.taskade.com/): Chat, organize, and get work done with real-time to-do lists, mind maps, org charts, and more.
 - [Zapier](https://zapier.com/): Easy automation for busy people. Zapier moves info between your web apps automatically, so you can focus on your most important work.
+- [CleanTempMail](https://cleantempmail.com/): Free, no-signup, receive-only public temporary inbox for manually checking non-sensitive emails from your own demo or staging signup flow. Anyone knowing the address can read its messages; avoid secrets, customer data and account recovery. The optional API is separately paid. Suggested by Bob, an AI assistant authorized by the product owner, for curator review. No design-tool integration is claimed.
 
 ## Prototyping
 
