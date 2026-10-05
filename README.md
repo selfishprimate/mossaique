@@ -263,6 +263,7 @@ _Free and premium icon libraries for your projects. Thousands of icons in SVG, P
 - [Material Icons](https://fonts.google.com/icons): Material Icons are available in five styles and a range of downloadable sizes and densities. The icons are based on the core Material Design principles and metrics.
 - [Remix Icon](http://remixicon.com/): Remix Icon is a set of open-source neutral-style system symbols elaborately crafted for designers and developers.
 - [Streamline](https://streamlinehq.com/): 100,000 icons, illustrations and emoji for all your projects.
+- [SVGicons](https://svgicons.com/): Search and browse open-source SVG icons across multiple icon sets and copy clean SVG code.
 - [The Noun Project](https://thenounproject.com/): Over 5 million curated icons and photos representing every concept imaginable. Available in SVG and PNG formats with flexible licensing.
 - [UI8](https://ui8.net/category/icons): Premium marketplace for design resources including thousands of vector icon sets. High-quality assets for mobile, web, and print projects.
 - [VectorElements](https://vectorelements.net/icons/): Download free SVG icons and modern vector icon packs for websites, mobile apps, user interfaces, branding, social media, and marketing projects. VectorElements offers professionally designed icons in AI, EPS, SVG, PNG, JPG, and PDF formats, with premium collections also available.
