@@ -59,6 +59,7 @@ _Explore cutting-edge AI tools for designers and developers. From ChatGPT and Cl
 - [Stable Diffusion](https://stability.ai/): Open-source AI model for generating detailed images from text descriptions. *Stability AI*
 - [Synthesia](https://www.synthesia.io/): Create AI videos with avatars and voiceovers in minutes. No cameras, microphones, or actors needed. *Synthesia*
 - [v0](https://v0.dev/): Generate UI components with AI. Create React components from text descriptions. *Vercel*
+- [MT-MangaTranslate-Manga Translator](https://www.mangatranslate.com/ai-manga-translator/): MT-MangaTranslate-Manga Translator by Ficory LLC gives comic creators and localization studios an ai manga translator for batch image and PDF translation. Its Photoshop-style online editor lets teams review translated text and adjust comic pages in the browser. The service supports translation across more than 100 languages, with availability depending on the selected mode, and offers an API for enterprise and personal workflows. Creators can use the tool to prepare multilingual versions of comics they own or have permission to translate.
 
 ## Articles
 
