@@ -59,6 +59,7 @@ _Explore cutting-edge AI tools for designers and developers. From ChatGPT and Cl
 - [Stable Diffusion](https://stability.ai/): Open-source AI model for generating detailed images from text descriptions. *Stability AI*
 - [Synthesia](https://www.synthesia.io/): Create AI videos with avatars and voiceovers in minutes. No cameras, microphones, or actors needed. *Synthesia*
 - [v0](https://v0.dev/): Generate UI components with AI. Create React components from text descriptions. *Vercel*
+- [TextToVoice](https://texttovoice.org/): Free browser text-to-speech for trying short narration and voiceover drafts. Choose from 322 voices across 75 language codes, adjust speed, pitch and volume, and export MP3. No signup; up to 2,000 characters per conversion. Availability limits apply; check usage rights before publishing audio.
 
 ## Articles
 
