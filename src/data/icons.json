@@ -109,10 +109,18 @@
       "pricing": "paid"
     },
     {
+      "title": "SVGicons",
+      "link": "https://svgicons.com/",
+      "description": "Search and browse open-source SVG icons across multiple icon sets and copy clean SVG code.",
+      "globalIndex": 186,
+      "addedAt": "2026-10-05",
+      "pricing": null
+    },
+    {
       "title": "The Noun Project",
       "link": "https://thenounproject.com/",
       "description": "Over 5 million curated icons and photos representing every concept imaginable. Available in SVG and PNG formats with flexible licensing.",
-      "globalIndex": 186,
+      "globalIndex": 187,
       "addedAt": "2022-02-09",
       "pricing": "freemium"
     },
@@ -120,7 +128,7 @@
       "title": "UI8",
       "link": "https://ui8.net/category/icons",
       "description": "Premium marketplace for design resources including thousands of vector icon sets. High-quality assets for mobile, web, and print projects.",
-      "globalIndex": 187,
+      "globalIndex": 188,
       "addedAt": "2022-02-09",
       "pricing": "paid"
     },
@@ -128,7 +136,7 @@
       "title": "VectorElements",
       "link": "https://vectorelements.net/icons/",
       "description": "Download free SVG icons and modern vector icon packs for websites, mobile apps, user interfaces, branding, social media, and marketing projects. VectorElements offers professionally designed icons in AI, EPS, SVG, PNG, JPG, and PDF formats, with premium collections also available.",
-      "globalIndex": 188,
+      "globalIndex": 189,
       "addedAt": "2026-08-06",
       "pricing": null
     }

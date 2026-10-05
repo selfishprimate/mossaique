@@ -8,7 +8,7 @@
       "title": "Canva",
       "link": "https://www.canva.com/font-combinations/",
       "description": "Explore curated font pairing combinations for your designs. Browse hundreds of professionally matched typeface pairs with live preview examples.",
-      "globalIndex": 251,
+      "globalIndex": 252,
       "addedAt": "2020-09-22",
       "pricing": "freemium"
     },
@@ -16,7 +16,7 @@
       "title": "Font Squirrel",
       "link": "https://www.fontsquirrel.com/",
       "description": "Curated collection of high-quality, commercial-use free fonts. Includes a webfont generator for converting fonts to web-friendly formats.",
-      "globalIndex": 252,
+      "globalIndex": 253,
       "addedAt": "2020-09-22",
       "pricing": "free"
     },
@@ -24,7 +24,7 @@
       "title": "FontJoy",
       "link": "https://fontjoy.com/",
       "description": "Generate font combinations with deep learning.",
-      "globalIndex": 253,
+      "globalIndex": 254,
       "addedAt": "2020-09-22",
       "pricing": "free"
     },
@@ -32,7 +32,7 @@
       "title": "FontPair",
       "link": "https://fontpair.co/",
       "description": "Font Pair is a typography site dedicated to helping creators use beautiful typography for their creative projects.",
-      "globalIndex": 254,
+      "globalIndex": 255,
       "addedAt": "2020-09-22",
       "pricing": "free"
     },
@@ -40,7 +40,7 @@
       "title": "Fonts Arena",
       "link": "https://fontsarena.com/",
       "description": "FontsArena is a curated typography website with a focus on contemporary typography and high quality free fonts.",
-      "globalIndex": 255,
+      "globalIndex": 256,
       "addedAt": "2020-09-22",
       "pricing": "free"
     },
@@ -48,7 +48,7 @@
       "title": "Fonts in Use",
       "link": "https://fontsinuse.com/",
       "description": "An independent archive of typography.",
-      "globalIndex": 256,
+      "globalIndex": 257,
       "addedAt": "2020-09-22",
       "pricing": "free"
     },
@@ -56,7 +56,7 @@
       "title": "FontsWiki",
       "link": "https://fontswiki.com",
       "description": "Free typography hub for designers and developers to browse font pages, preview type, compare alternatives, study pairings, and explore Fonts-in-Use examples from movies, logos, games, and visual culture.",
-      "globalIndex": 257,
+      "globalIndex": 258,
       "addedAt": "2026-04-19",
       "pricing": null
     },
@@ -64,7 +64,7 @@
       "title": "Google Fonts",
       "link": "https://fonts.google.com/",
       "description": "Making the web more beautiful, fast, and open through great typography.",
-      "globalIndex": 258,
+      "globalIndex": 259,
       "addedAt": "2020-09-22",
       "pricing": "free"
     },
@@ -72,7 +72,7 @@
       "title": "Modular Scale",
       "link": "https://www.modularscale.com/",
       "description": "Build your typographic scale, create the vertical rhythm of your web site.",
-      "globalIndex": 259,
+      "globalIndex": 260,
       "addedAt": "2020-09-28",
       "pricing": "free"
     },
@@ -80,7 +80,7 @@
       "title": "My Fonts",
       "link": "https://www.myfonts.com/",
       "description": "MyFonts offers the largest selection of professional fonts for any project.",
-      "globalIndex": 260,
+      "globalIndex": 261,
       "addedAt": "2020-09-28",
       "pricing": "paid"
     },
@@ -88,7 +88,7 @@
       "title": "Type Scale",
       "link": "https://type-scale.com/",
       "description": "Visual calculator for creating harmonious typography scales. Preview how different scale ratios affect your type system.",
-      "globalIndex": 261,
+      "globalIndex": 262,
       "addedAt": "2022-01-05",
       "pricing": "free"
     },
@@ -96,7 +96,7 @@
       "title": "Typewolf",
       "link": "https://www.typewolf.com/",
       "description": "Discover trending typefaces and see how they're used in the wild. Curated font recommendations, site reviews, and typography inspiration.",
-      "globalIndex": 262,
+      "globalIndex": 263,
       "addedAt": "2020-09-22",
       "pricing": "freemium"
     },
@@ -104,7 +104,7 @@
       "title": "Typewonder",
       "link": "http://typewonder.com/",
       "description": "Helps you to test web fonts on any web site on the fly!",
-      "globalIndex": 263,
+      "globalIndex": 264,
       "addedAt": "2020-09-29",
       "pricing": "free"
     },
@@ -112,7 +112,7 @@
       "title": "Typographic Posters",
       "link": "https://www.typographicposters.com/",
       "description": "Typographic Posters is a platform for inspiration and promotion of good design through the poster culture.",
-      "globalIndex": 264,
+      "globalIndex": 265,
       "addedAt": "2020-09-22",
       "pricing": "free"
     },
@@ -120,7 +120,7 @@
       "title": "Typographica",
       "link": "https://typographica.org/",
       "description": "In-depth typeface reviews, book reviews, and commentary on typography. Essential reading for type enthusiasts and designers.",
-      "globalIndex": 265,
+      "globalIndex": 266,
       "addedAt": "2020-09-29",
       "pricing": "free"
     },
@@ -128,7 +128,7 @@
       "title": "Typography in Ten Minutes",
       "link": "https://practicaltypography.com/typography-in-ten-minutes.html",
       "description": "If you learn and follow these five typography rules, you will be a better typographer than nearly every writer—and even most graphic designers.",
-      "globalIndex": 266,
+      "globalIndex": 267,
       "addedAt": "2022-01-05",
       "pricing": "free"
     }
