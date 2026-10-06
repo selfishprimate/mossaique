@@ -8,7 +8,7 @@
       "login": "selfishprimate",
       "avatar_url": "https://avatars.githubusercontent.com/u/8937245?v=4",
       "html_url": "https://github.com/selfishprimate",
-      "contributions": 376,
+      "contributions": 380,
       "type": "contributor"
     },
     {
@@ -33,6 +33,14 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/21262357?v=4",
       "html_url": "https://github.com/nilansaha",
       "contributions": 3,
+      "type": "contributor"
+    },
+    {
+      "id": 29605261,
+      "login": "marcemile",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29605261?v=4",
+      "html_url": "https://github.com/marcemile",
+      "contributions": 2,
       "type": "contributor"
     },
     {
@@ -282,7 +290,7 @@
       "login": "selfishprimate",
       "avatar_url": "https://avatars.githubusercontent.com/u/8937245?v=4",
       "html_url": "https://github.com/selfishprimate",
-      "contributions": 376,
+      "contributions": 380,
       "type": "contributor"
     },
     {
@@ -307,6 +315,14 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/21262357?v=4",
       "html_url": "https://github.com/nilansaha",
       "contributions": 3,
+      "type": "contributor"
+    },
+    {
+      "id": 29605261,
+      "login": "marcemile",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29605261?v=4",
+      "html_url": "https://github.com/marcemile",
+      "contributions": 2,
       "type": "contributor"
     },
     {
@@ -348,18 +364,10 @@
       "html_url": "https://github.com/niyisurvey",
       "starred_at": "2026-03-23T06:22:58Z",
       "type": "stargazer"
-    },
-    {
-      "id": 38345448,
-      "login": "kirqi",
-      "avatar_url": "https://avatars.githubusercontent.com/u/38345448?v=4",
-      "html_url": "https://github.com/kirqi",
-      "starred_at": "2026-02-19T07:03:51Z",
-      "type": "stargazer"
     }
   ],
-  "totalPeople": 34,
-  "totalContributors": 7,
+  "totalPeople": 35,
+  "totalContributors": 8,
   "totalStargazers": 27,
-  "lastUpdated": "2026-09-30T04:37:20.913Z"
+  "lastUpdated": "2026-10-06T05:26:59.072Z"
 }
