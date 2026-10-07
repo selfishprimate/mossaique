@@ -307,6 +307,7 @@ _Professional mockup templates for stunning presentations. Create realistic devi
 - [Cleanmock](https://cleanmock.com/): Free browser-based mockup generator. Create professional device mockups and screenshots with customizable backgrounds and layouts.
 - [Haikei](https://app.haikei.app/): Generate unique SVG background patterns, shapes, and design assets. Customize colors, layers, and export for web and print.
 - [Shotsnap](https://app.shotsnapp.com/): All you need to do is to choose what device to show it off on, and upload your image for it to be show on the device you chose.
+- [AppScreen](https://appscreen.pro): Browser-based mockup editor that handles an entire App Store slide sequence as a single stretched canvas: set iPhone or iPad captures inside device frames, add caption text across the seams, then export every slide at the pixel size Apple asks for. Free to use; Pro is a one-off $9. Sent in by the maker.
 
 ## Productivity
 
