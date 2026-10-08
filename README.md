@@ -320,6 +320,7 @@ _Productivity tools to streamline your design workflow. Collaborate better with 
 - [Slack](https://slack.com/): Transform the way you work with one place for everyone and everything you need to get stuff done.
 - [Taskade](https://www.taskade.com/): Chat, organize, and get work done with real-time to-do lists, mind maps, org charts, and more.
 - [Zapier](https://zapier.com/): Easy automation for busy people. Zapier moves info between your web apps automatically, so you can focus on your most important work.
+- [Mermaid Live Editor](https://mermaid-live-editor.com/): Free independent browser-based editor for creating diagrams from Mermaid text syntax. Live preview helps users develop flowcharts, sequence diagrams and other visual explanations for documentation and workflows. This hosted tool is separate from the official upstream Mermaid project.
 
 ## Prototyping
 
