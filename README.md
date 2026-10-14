@@ -316,6 +316,7 @@ _Productivity tools to streamline your design workflow. Collaborate better with 
 - [Obsidian](https://obsidian.md/): Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
 - [Pomofocus](https://pomofocus.io/): An online Pomodoro Timer to boost your productivity.
 - [Slack](https://slack.com/): Transform the way you work with one place for everyone and everything you need to get stuff done.
+- [SnapVideoTools](https://snapvideotools.com/): A public-link media utility for creators who need to save their own or authorized source media for later work. The free web tool returns source-available video, images, audio or covers from supported public links. Quality and watermark status depend on the source; it does not grant reuse rights. A desktop companion also supports queues and optional local transcription.
 - [Taskade](https://www.taskade.com/): Chat, organize, and get work done with real-time to-do lists, mind maps, org charts, and more.
 - [Zapier](https://zapier.com/): Easy automation for busy people. Zapier moves info between your web apps automatically, so you can focus on your most important work.
 
