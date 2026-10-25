@@ -276,6 +276,7 @@ _Get inspired by the best design work from around the world. Browse award-winnin
 - [Best Website Gallery](https://bestwebsite.gallery/): Curated collection of beautiful, well-designed websites. Filter by color, type, and category to find design inspiration.
 - [Brutalist Websites](https://brutalistwebsites.com/): In its ruggedness and lack of concern to look comfortable or easy, Brutalism can be seen as a reaction by a younger generation to the lightness, optimism, and frivolity of today's web design.
 - [CSS Nectar](https://cssnectar.com/): CSS Nectar is a css website design showcase for web designers and developers.
+- [Design Details](https://designdetails.io/): A free curated library of live websites with great motion, sorted by sections like hero, navigation and footer, and filterable by type and color.
 - [Design Inspiration](https://www.designspiration.com/): Designspiration is committed to being the best product that it can.
 - [Deslove](https://deslove.com/): A free platform for designers to publish work, build a portfolio, share thoughts, collect useful resources and connect with other creators. Available in English and Ukrainian.
 - [Dribbble](https://dribbble.com/): Dribbble is the leading destination to find & showcase creative work and home to the world's best design professionals.
