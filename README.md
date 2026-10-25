@@ -410,6 +410,7 @@ _Best UI design tools and resources. Create beautiful user interfaces with Figma
 _UX design tools and user research resources. Learn about user testing, journey mapping, wireframing, and creating user-centered designs. Essential resources for understanding user behavior and designing better experiences. Build products users love._
 
 - [Filters vs. Facets: Definitions](https://www.nngroup.com/articles/filters-vs-facets/): The terms “filters” and “faceted navigation” are often used interchangeably; although related, these concepts have important differences.
+- [How to Conduct User Interviews: A Step-by-Step Guide](https://pulsecorp.co/blog/how-to-conduct-user-interviews-a-step-by-step-guide/): A five-step process for running user interviews, from setting research goals and recruiting participants to moderating sessions and synthesizing findings, plus common mistakes to avoid.
 - [Inspo AI](https://inspoai.io/): Inspo AI is an open-source design platform for UI/UX designers, developers and product teams. Discover real web and mobile UI inspiration, organize ideas into moodboards, generate interfaces and user flows with AI, and export designs to Figma. Its Brand DNA Scanner can also analyze any website to uncover brand colors, typography, visual assets, brand identity and tech stack, bringing design research and UI creation into one workspace.
 - [Task Analysis: Support Users in Achieving Their Goals](https://www.nngroup.com/articles/task-analysis/): Task analysis is the systematic study of how users complete tasks to achieve their goals.
 
