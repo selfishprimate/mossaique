@@ -116,6 +116,7 @@ _Find the perfect color palette for your design projects. Explore color generato
 - [Adobe Color](https://color.adobe.com/tr/create/color-wheel): Professional color wheel tool from Adobe for creating harmonious color schemes. Extract colors from images, explore trending palettes, and test accessibility ratios.
 - [BrandColors](https://brandcolors.net/): The biggest collection of official brand color codes around.
 - [Branition Colors](https://branition.com/colors): Hand-curated collection of color palettes best fitted for branding.
+- [Color by Tej SolPro](https://tejsolpro.github.io/color/?utm_source=mossaique&utm_medium=directory&utm_campaign=early_distribution): Free, open-source tool that keeps one brand color exactly as entered, derives semantic UI color tokens, and checks each intended pair (text, hover, borders, focus) against WCAG 2.2 contrast. Exports CSS custom properties or JSON.
 - [Color Claim](https://vanschneider.com/colors): Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for your future projects.
 - [Color Hunt](https://colorhunt.co/): Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
 - [Color Oracle](https://colororacle.org/): Color Oracle is a free color blindness simulator for Windows, Mac and Linux.
