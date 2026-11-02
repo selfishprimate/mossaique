@@ -29,10 +29,18 @@
       "pricing": null
     },
     {
+      "title": "Seamlessify",
+      "link": "https://seamlessify.com/",
+      "description": "Seamlessify makes seamless, tileable patterns and textures for design and AI workflows.",
+      "globalIndex": 170,
+      "addedAt": "2026-11-02",
+      "pricing": null
+    },
+    {
       "title": "Women of Graphic Design",
       "link": "https://womenofgraphicdesign.org/",
       "description": "A project focused on exhibiting the contributions of women in graphic design and exploring issues of gender-equality in education provided by design institutions.",
-      "globalIndex": 170,
+      "globalIndex": 171,
       "addedAt": "2022-02-09",
       "pricing": "free"
     }
