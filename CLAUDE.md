@@ -81,6 +81,7 @@ Most pull requests add a single README.md line. Work through these before mergin
 
 - The line must be `- [Title](URL): Description` on one line. A separator of `- ` instead of `: ` leaves the dash inside the rendered description, and a line break splits the entry into a paragraph the parser drops.
 - Check the alphabetical position within the section. The submission form inserts alphabetically (`insertResourceLine` in `netlify/functions/submit-resource.js`, exported so the placement can be tested without calling the GitHub API), but PRs opened before that fix, and anything hand-written, still land in the wrong place. Compare with `localeCompare(…, 'en', { sensitivity: 'base' })`, the comparator the parser uses.
+- The URL must be the canonical one, with no tracking attached. A submission arrived carrying `utm_source=mossaique&utm_medium=directory&utm_campaign=early_distribution`; strip campaign parameters, session ids and referral codes, and keep any locale out of the path so the link resolves to the visitor's own (`meta.com/design-at-meta/`, not `meta.com/tr/design-at-meta/`).
 - Check the URL is not already in that section. The same resource cross-listed in two different categories is deliberate (five of those exist); the same URL twice in one section means one entry has the wrong link.
 - Open the link. `403` from curl is usually bot protection rather than a dead site — confirm in the browser. Cloudflare `526` or a `404` means it is actually down; remove or reject rather than merging a broken link.
 
