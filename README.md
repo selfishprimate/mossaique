@@ -254,6 +254,7 @@ _Free and premium icon libraries for your projects. Thousands of icons in SVG, P
 - [Flaticon](https://www.flaticon.com/): Download free icons and stickers for your projects. Resources made by and for designers.
 - [Font Awesome](https://fontawesome.com/): Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.
 - [Freepik](https://www.freepik.com/popular-icons): Illustrations, photos, icons, mockups, and presentations templates.
+- [I Love Icons](https://iloveicons.app/): A free archive of 900+ iOS App Store icons I put together for app icon work. Filter by category, color and style, and open any icon for its 1024px image, color hex values and a home screen preview. No sign-up.
 - [IcoMoon](https://icomoon.io/): Free icon library and icon font generator. Create custom icon fonts from hundreds of vector icons or upload your own SVG files.
 - [Iconfinder](https://www.iconfinder.com/): Marketplace with millions of free and premium icons, illustrations, and 3D assets. Find icons in SVG, PNG, and icon font formats.
 - [Iconmonstr](https://iconmonstr.com/): Free, monstrously big and continuously growing source of simple icons.
