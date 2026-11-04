@@ -28,6 +28,7 @@ _Discover essential accessibility design tools and resources. Learn WCAG guideli
 - [Colorable](https://colorable.jxnblk.com/): Test color combinations for WCAG accessibility compliance. Quickly see contrast ratios between foreground and background colors in real-time.
 - [Colors](https://clrs.cc/a11y/): Accessibility is important! Mix and match these color classes to create a variety of accessible themes.
 - [Contrast](https://usecontrast.com/): A macOS app for quick access to WCAG color contrast ratios.
+- [Effeect Color Contrast Checker](https://effeect.com/tools/color-contrast-checker/): A free browser tool that calculates the contrast ratio between text and background colors and displays WCAG AA and AAA pass/fail results for normal and large text.
 - [Stark](https://www.getstark.co/): Comprehensive accessibility toolkit integrated into your design workflow. Check contrast ratios, simulate color blindness, and ensure WCAG compliance directly in Figma, Sketch, and Adobe XD.
 - [The A11y Project](https://www.a11yproject.com/): The A11Y Project is a community-driven effort to make digital accessibility easier.
 - [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/): Introducing the Web Content Accessibility Guidelines (WCAG), including WCAG 2.0 and WCAG 2.1.
