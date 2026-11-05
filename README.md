@@ -41,6 +41,7 @@ _Explore cutting-edge AI tools for designers and developers. From ChatGPT and Cl
 - [ChatGPT](https://chat.openai.com/): ChatGPT is an AI-powered conversational assistant that can help with writing, coding, brainstorming, and more. *OpenAI*
 - [Claude](https://claude.ai/): Claude is an AI assistant by Anthropic that excels at complex reasoning, analysis, and creative tasks with a focus on safety and helpfulness. *Anthropic*
 - [Copy.ai](https://www.copy.ai/): AI-powered copywriting tool that helps you create marketing copy, blog posts, and more. *Copy.ai*
+- [Cutout.Free](https://cutout.free/): Free online AI background remover for product photos, portraits and design assets. Upload one JPG, PNG or WebP, then download a transparent PNG or replace the background. No account needed. Images are uploaded for processing; 20 MB/24 MP input limits apply and large images are downscaled.
 - [DALL-E](https://openai.com/dall-e): Generate, edit, and create variations of images using AI. Create realistic images and art from natural language descriptions. *OpenAI*
 - [ElevenLabs](https://elevenlabs.io/): Generate realistic AI voices and speech. Create natural-sounding voiceovers in multiple languages. *ElevenLabs*
 - [Framer AI](https://www.framer.com/ai): Generate and publish websites with AI. Start with text, customize with Framer's design tools. *Framer*
