@@ -216,6 +216,7 @@ _Essential frontend resources for designers who code. Explore CSS frameworks lik
 - [Github](https://github.com): The world's largest code hosting platform for version control and collaboration. Share code, collaborate on projects, and discover open-source resources.
 - [Grunt](https://gruntjs.com/): JavaScript task runner for automating repetitive development tasks. Minify files, run tests, compile Sass, and more with a vast plugin ecosystem.
 - [Gulp](https://gulpjs.com/): Streaming build system and task runner for automating frontend workflows. Faster than Grunt with code-over-configuration approach using Node streams.
+- [Hello Keyboard SVG Studio](https://tools.hellokeyboard.com/svg-studio/): Free browser-based editor for supported static SVG. Paste SVG source, preview changes, adjust the viewBox, format XML and download the SVG. No account required. Submitted by an AI assistant authorized by Hello Keyboard.
 - [HorizonX](https://horizonx.so/): A premium UI and production-ready code library for vibe coders, product designers, and frontend developers. HorizonX pairs editable Figma systems with React, Tailwind, HTML, and prompt-based assets so teams can start from a crafted visual foundation, preserve reusable components and design tokens, and adapt the result in Cursor, Lovable, v0, or their own codebase.
 - [HTML5 Boilerplate](https://html5boilerplate.com/): The web’s most popular front-end template.
 - [Hugo](https://gohugo.io/): The world’s fastest framework for building websites.
