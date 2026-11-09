@@ -437,6 +437,7 @@ _More essential design resources and tools. Discover utilities for design collab
 - [Components.ai](https://components.ai/): Visual editors for HTML, CSS, and SVG. Customize, curate, and publish designs faster than ever.
 - [Design Sprint Kit](https://designsprintkit.withgoogle.com/): Transform the way your team works.
 - [Ethical Design Resources](https://www.ethicaldesignresources.com/): Practical resources to learn about design ethics and its methodologies.
+- [EveryTool4U](https://everytool4u.com/): Free browser-based tools for PDF, image, video, text and data tasks. Includes a color picker, image converters, JSON formatter and other utilities. No account is required.
 - [Hotjar](https://www.hotjar.com/): Understand how users behave on your site, what they need, and how they feel, fast.
 - [Lorem Ipsum](https://loremipsum.io/): Generate placeholder text for your designs and mockups. Includes classic Lorem Ipsum and alternative filler text options in various languages.
 - [Media Queries](https://mediaqueri.es/): A handy tool that helps designers examine the responsiveness of a variety of web sites.
