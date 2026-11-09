@@ -43,6 +43,7 @@ _Explore cutting-edge AI tools for designers and developers. From ChatGPT and Cl
 - [Copy.ai](https://www.copy.ai/): AI-powered copywriting tool that helps you create marketing copy, blog posts, and more. *Copy.ai*
 - [DALL-E](https://openai.com/dall-e): Generate, edit, and create variations of images using AI. Create realistic images and art from natural language descriptions. *OpenAI*
 - [ElevenLabs](https://elevenlabs.io/): Generate realistic AI voices and speech. Create natural-sounding voiceovers in multiple languages. *ElevenLabs*
+- [Everygen AI Text to Image](https://everygenai.org/image/text-to-image): Web-based AI image generation from text prompts. Choose a model, aspect ratio, resolution and output format to explore visual ideas for posters, banners and social posts. Uses paid credits or subscriptions, with the credit cost shown before generation.
 - [Framer AI](https://www.framer.com/ai): Generate and publish websites with AI. Start with text, customize with Framer's design tools. *Framer*
 - [Gamma](https://gamma.app/): Create beautiful presentations, documents, and websites with AI. No design skills required. *Gamma*
 - [Google Gemini](https://gemini.google.com/): Google's most capable AI model for text, code, image, and more. Multimodal AI assistant. *Google*
