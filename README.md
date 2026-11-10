@@ -122,6 +122,7 @@ _Find the perfect color palette for your design projects. Explore color generato
 - [Colorable](https://colorable.jxnblk.com/): Contrast is the difference in luminance or color that makes an object distinguishable.
 - [ColorBox](https://colorbox.io/): Advanced color palette generator from Lyft Design. Create multi-step color systems with custom interpolation and accessibility features built-in.
 - [Colordot](https://color.hailpixel.com/): Intuitive color picker that lets you create palettes by swiping through hues. Simple, gesture-based interface for quick color selection.
+- [ColorPairLab](https://colorpairlab.online/): Free browser-based tools for checking text and background contrast, exploring HEX, RGB and HSL color values, and building and exporting color palettes. Includes a palette contrast matrix and practical guidance for readable interface colors. No account required.
 - [Colors](https://clrs.cc/a11y/): Mix and match these color classes to create a variety of accessible themes.
 - [Colorsinspo](https://colorsinspo.com/): Thousands of beautiful color palettes you can use it directly by one click.
 - [Colourco](https://colourco.de/): Interactive HSL color picker with real-time adjustments. Fine-tune hue, saturation, and lightness values with intuitive sliders and visual feedback.
