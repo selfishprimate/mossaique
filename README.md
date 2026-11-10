@@ -243,6 +243,7 @@ _Professional graphic design resources and inspiration. Discover tools, template
 - [InspirationGrid](https://theinspirationgrid.com/): Curated daily dose of creative inspiration including graphic design, architecture, photography, and art from around the world.
 - [Kanyon Image Studio](https://kanyonw.com/image-compressor): Free browser-based image preparation for designers: compress, resize/crop, convert HEIC to JPG, export JPG/PNG/WebP and clean personal metadata from JPG/PNG. Up to 50 photos per batch, with previews, a built-in sample and ZIP downloads (50 MB/image, 200 MB/batch, 60 outputs/run). No signup or image uploads; image processing stays on-device. Site analytics and HEIC/ZIP libraries may load online. Built and submitted by Kanyon Studio.
 - [Pic2SVG](https://pic2svg.com/): Browser-based converter that traces raster images into real, editable SVG paths. SVG downloads are free with no account; PDF, EPS, AI and DXF exports need a paid plan.
+- [Pic2Vector](https://pic2vector.com/): Free browser-based converter that traces PNG, JPG, and WebP images into SVG vector graphics using vtracer and WebAssembly; images are never uploaded.
 - [Seamlessify](https://seamlessify.com/): Seamlessify makes seamless, tileable patterns and textures for design and AI workflows.
 - [Women of Graphic Design](https://womenofgraphicdesign.org/): A project focused on exhibiting the contributions of women in graphic design and exploring issues of gender-equality in education provided by design institutions.
 
