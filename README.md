@@ -377,6 +377,7 @@ _Beautiful fonts and typography resources for designers. Explore Google Fonts, d
 - [Fonts Arena](https://fontsarena.com/): FontsArena is a curated typography website with a focus on contemporary typography and high quality free fonts.
 - [Fonts in Use](https://fontsinuse.com/): An independent archive of typography.
 - [FontsWiki](https://fontswiki.com): Free typography hub for designers and developers to browse font pages, preview type, compare alternatives, study pairings, and explore Fonts-in-Use examples from movies, logos, games, and visual culture.
+- [GlyphIndex](https://glyphindex.site/): Free Unicode symbol reference for finding and copying characters for notes, formulas and everyday writing. Search symbols by name or U+ code, browse themed collections, and inspect pasted text for invisible characters and Unicode differences. No sign-up required.
 - [Google Fonts](https://fonts.google.com/): Making the web more beautiful, fast, and open through great typography.
 - [Modular Scale](https://www.modularscale.com/): Build your typographic scale, create the vertical rhythm of your web site.
 - [My Fonts](https://www.myfonts.com/): MyFonts offers the largest selection of professional fonts for any project.
