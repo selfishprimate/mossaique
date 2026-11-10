@@ -131,6 +131,7 @@ _Find the perfect color palette for your design projects. Explore color generato
 - [Happy Hues](https://www.happyhues.co/): See color palettes in context with real UI examples. Visualize how different color combinations work in actual website layouts before committing.
 - [Hex Colors](https://hexcolor.co/): A collection of free color tools that will help you choose the right color for your next project!
 - [HTML Color Codes](https://htmlcolorcodes.com/): Get HTML color codes, Hex color codes, RGB and HSL values with our color picker...
+- [IroRecipe (いろレシピ)](https://www.irorecipe.com/): Free Japanese-language color reference and browser toolkit. Explore Japanese and CSS named colors, create palettes, pick colors from images, convert HEX/RGB/HSL values and check text/background contrast. Suggested on behalf of IroRecipe for the Color collection, not as an independent review.
 - [Leonardo](https://leonardocolor.io/): Leonardo is a one-of-a-kind tool for creating, managing, and sharing accessible color systems for user interface design and data visualization.
 - [Picular](https://picular.co/): Search for any keyword and get a curated color palette inspired by Google image results. Perfect for finding colors related to concepts, moods, or objects. 
 - [Pigment](https://pigment.shapefactory.co/): Create unique color palettes with this AI-powered tool. Generate harmonious color schemes and export them in various formats for your design projects.
