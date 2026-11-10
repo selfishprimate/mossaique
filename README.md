@@ -49,6 +49,7 @@ _Explore cutting-edge AI tools for designers and developers. From ChatGPT and Cl
 - [Havi](https://www.havi.ai): AI presentation builder that turns a text prompt into a fully designed slide deck. Exports to PPTX for editing in PowerPoint or Google Slides.
 - [Hugging Face](https://huggingface.co/): The AI community building the future. Access thousands of AI models, datasets, and apps. *Hugging Face*
 - [Ideogram](https://ideogram.ai/): Free AI image generator that creates stunning visuals from text prompts in seconds. Excellent for generating images with text, logos, and creative designs.
+- [Imagera](https://imagera.ai/): Browser studio that runs many AI image and video models side by side, with Character and Object IDs that keep a face or product consistent across images and clips. *Imagera*
 - [Jasper](https://www.jasper.ai/): AI content platform for businesses. Create high-quality content faster with AI. *Jasper*
 - [Microsoft Copilot](https://copilot.microsoft.com/): AI-powered assistant integrated across Microsoft products. Get help with writing, coding, and productivity. *Microsoft*
 - [Midjourney](https://www.midjourney.com/): Create stunning AI-generated images from text descriptions. Perfect for concept art, illustrations, and creative exploration. *Midjourney*
