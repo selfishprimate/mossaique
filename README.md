@@ -402,6 +402,7 @@ _UI animation tools and motion design resources. Create smooth animations and mi
 _Best UI design tools and resources. Create beautiful user interfaces with Figma, Adobe XD, Sketch, and Framer. Access UI kits, design patterns, and component libraries. Essential tools for professional interface design and prototyping._
 
 - [Adobe XD](https://www.adobe.com/products/xd.html): Lifelike in every sense. Create stunningly real UI/UX designs and stand out from the rest.
+- [DESIGN:OS Studio](https://jangtrinh.github.io/design-os-studio/): Free desktop interface design app for macOS, Windows and Linux. Opens and saves .fig files and lets your AI coding agent edit designs through a built-in MCP server.
 - [Figma](https://www.figma.com/ui-design-tool/): Browser-based collaborative design tool for creating interfaces, prototypes, and design systems. Real-time collaboration, powerful auto-layout, and extensive plugin ecosystem.
 - [Framer](https://www.framer.com/): Interactive design and prototyping tool with real React components. Create production-ready prototypes with advanced animations, interactions, and responsive layouts.
 - [Maze](https://maze.co/): Rapid user testing and research platform. Test prototypes, run surveys, conduct interviews, and gather actionable insights before building your product.
