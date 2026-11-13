@@ -58,6 +58,7 @@ _Explore cutting-edge AI tools for designers and developers. From ChatGPT and Cl
 - [Runway](https://runwayml.com/): AI-powered creative tools for video editing, image generation, and more. Make anything you can imagine. *Runway*
 - [Stable Diffusion](https://stability.ai/): Open-source AI model for generating detailed images from text descriptions. *Stability AI*
 - [Synthesia](https://www.synthesia.io/): Create AI videos with avatars and voiceovers in minutes. No cameras, microphones, or actors needed. *Synthesia*
+- [TrendVido AI](https://trendvido.com/): TrendVido creates short AI videos for social content using uploaded photos and preset dance, meme and visual-effect templates. No prompt writing is required; finished clips download as MP4. Independently operated, with one-time credit packs from $9.99 and no subscription or free trial.
 - [v0](https://v0.dev/): Generate UI components with AI. Create React components from text descriptions. *Vercel*
 
 ## Articles
