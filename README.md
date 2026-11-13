@@ -316,6 +316,7 @@ _Productivity tools to streamline your design workflow. Collaborate better with 
 
 - [Bardeen](https://www.bardeen.ai/): Bardeen saves you time by automating repetitive tasks with a shortcut. It combines a powerful workflow builder, AI-based recommendations, and contextual automations.
 - [Miro](https://miro.com/): The online collaborative whiteboard platform to bring teams together, anytime, anywhere.
+- [MyOnlineFocus](https://myonlinefocus.top/): A browser productivity toolbox with a Pomodoro timer, ambient sounds, a Kanban board and a habit tracker. Tasks and session data stay in browser storage.
 - [Notion](https://www.notion.so/): One tool for your whole team. Write, plan, and get organized.
 - [Obsidian](https://obsidian.md/): Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
 - [Pomofocus](https://pomofocus.io/): An online Pomodoro Timer to boost your productivity.
