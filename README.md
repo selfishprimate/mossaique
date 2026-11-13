@@ -39,6 +39,7 @@ _Explore cutting-edge AI tools for designers and developers. From ChatGPT and Cl
 
 - [Adobe Firefly](https://www.adobe.com/products/firefly.html): Generative AI integrated into Adobe Creative Cloud apps. Generate images, text effects, and more. *Adobe*
 - [ChatGPT](https://chat.openai.com/): ChatGPT is an AI-powered conversational assistant that can help with writing, coding, brainstorming, and more. *OpenAI*
+- [ChibiStyle](https://chibistyle.art/): ChibiStyle creates chibi avatars, Twitch emotes and Discord sticker PNGs from photos or text. Generate up to four images with mood presets. Independent product with 15 signup credits, paid credit packs and a monthly plan; not affiliated with OpenAI.
 - [Claude](https://claude.ai/): Claude is an AI assistant by Anthropic that excels at complex reasoning, analysis, and creative tasks with a focus on safety and helpfulness. *Anthropic*
 - [Copy.ai](https://www.copy.ai/): AI-powered copywriting tool that helps you create marketing copy, blog posts, and more. *Copy.ai*
 - [DALL-E](https://openai.com/dall-e): Generate, edit, and create variations of images using AI. Create realistic images and art from natural language descriptions. *OpenAI*
