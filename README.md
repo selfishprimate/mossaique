@@ -56,6 +56,7 @@ _Explore cutting-edge AI tools for designers and developers. From ChatGPT and Cl
 - [Plainify](https://plainify.app/): Structured specification files for vibe coding tools.
 - [Poe](https://poe.com/): Explore multiple AI chatbots in one place. Chat with ChatGPT, Claude, and other AI models. *Quora*
 - [Runway](https://runwayml.com/): AI-powered creative tools for video editing, image generation, and more. Make anything you can imagine. *Runway*
+- [SeedanceAI](https://seedanceai.im/): An independently operated, paid AI video creation website for turning text, images and reference media into video clips. Users can preview results and download MP4 files. Credit packs and subscription plans are available. It is a third-party service, not the official ByteDance or Seedance website.
 - [Stable Diffusion](https://stability.ai/): Open-source AI model for generating detailed images from text descriptions. *Stability AI*
 - [Synthesia](https://www.synthesia.io/): Create AI videos with avatars and voiceovers in minutes. No cameras, microphones, or actors needed. *Synthesia*
 - [v0](https://v0.dev/): Generate UI components with AI. Create React components from text descriptions. *Vercel*
