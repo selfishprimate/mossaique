@@ -132,6 +132,7 @@ _Find the perfect color palette for your design projects. Explore color generato
 - [Hex Colors](https://hexcolor.co/): A collection of free color tools that will help you choose the right color for your next project!
 - [HTML Color Codes](https://htmlcolorcodes.com/): Get HTML color codes, Hex color codes, RGB and HSL values with our color picker...
 - [Leonardo](https://leonardocolor.io/): Leonardo is a one-of-a-kind tool for creating, managing, and sharing accessible color systems for user interface design and data visualization.
+- [MyOnlineTools Color Picker](https://myonlinetools.top/tools/color-picker/): A browser color picker that displays HEX, RGB and HSL values together. Pick a color visually and copy its value for CSS and design work.
 - [Picular](https://picular.co/): Search for any keyword and get a curated color palette inspired by Google image results. Perfect for finding colors related to concepts, moods, or objects. 
 - [Pigment](https://pigment.shapefactory.co/): Create unique color palettes with this AI-powered tool. Generate harmonious color schemes and export them in various formats for your design projects.
 - [Pilestone](https://pilestone.com/pages/color-blindness-simulator-1): Test how your designs appear to people with different types of color blindness. Upload images to simulate various color vision deficiencies.
